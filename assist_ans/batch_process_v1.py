@@ -44,24 +44,43 @@ data_graph_file = '/home/myran/FaSTest_backup/FaSTest/dataset/human/human.graph'
 query_graph_folder = '/home/myran/FaSTest_backup/FaSTest/dataset/human/query_graph/'
 output_file = '/home/myran/FaSTest_backup/FaSTest/dataset/human/human_ans.txt'
 
+# 手动定义数字顺序（4, 8, 12, 16, 20等）
+order = [4, 8, 12, 16, 20]  # 这里设置了你希望的顺序
+
 # 获取所有的查询图文件，并按文件名中的类别和数字部分进行排序
 def get_sort_key(filename):
-    # 使用正则表达式提取文件名中的类别（如query_dense_4_）和数字部分（如1，2，3...）
+    # 使用正则表达式提取文件名中的类别（如query_dense_4_）和数字部分（如4,8,12,16,20等）
     match = re.match(r'(query_(dense|sparse)_(\d+))_(\d+).graph', filename)
     if match:
-        # 提取类别（dense/sparse），数字部分（4,8,16,32等），和文件中的数字部分（1到200）
+        # 提取类别（dense/sparse），数字部分（4, 8, 12, 16, 20等），和文件中的数字部分（1到200）
         prefix = match.group(1)  # query_dense_4_，query_dense_8_，query_sparse_4_ 等
-        group_number = int(match.group(3))  # 4, 8, 16, 32
+        group_number = int(match.group(3))  # 4, 8, 12, 16, 20等
         file_number = int(match.group(4))  # 1到200
-        
-        # 返回一个元组，让系统首先按文件的类别和组号排序，接着按文件号排序
-        return (prefix, group_number, file_number)
+
+        # 确保按自定义顺序排序数字部分（4, 8, 12, 16, 20等），并按文件号排序
+        try:
+            order_index = order.index(group_number)
+        except ValueError:
+            # 如果数字不在 `order` 列表中，给它一个很大的值，确保它排到最后
+            order_index = len(order) + 1
+
+        # 打印调试信息，查看每个文件的排序信息
+        logger.debug(f"文件: {filename}, group_number: {group_number}, order_index: {order_index}")
+
+        # 返回一个元组：按自定义顺序排序数字部分，然后按文件号排序
+        return (prefix, order_index, file_number)
     return (filename, 0, 0)  # 默认返回值
 
-
 try:
-    query_graph_files = sorted([f for f in os.listdir(query_graph_folder) if f.endswith('.graph')],
-                               key=get_sort_key)
+    # 获取所有文件，并打印排序前的文件列表
+    query_graph_files = [f for f in os.listdir(query_graph_folder) if f.endswith('.graph')]
+    logger.debug(f"排序前文件列表: {query_graph_files}")
+
+    query_graph_files = sorted(query_graph_files, key=get_sort_key)
+
+    # 打印排序后的文件列表
+    logger.debug(f"排序后文件列表: {query_graph_files}")
+
 except Exception as e:
     logger.exception("获取查询文件列表时发生错误")
     raise

@@ -1,0 +1,23 @@
+2025-03-01 17:32:08,496 - INFO - 开始处理: query_dense_12_1.graph
+2025-03-01 17:32:08,776 - DEBUG - query_dense_12_1.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 33213816
+#Recursive calls: 499132
+Total time: 217.631 ms
+Search time: 217.571 ms
+
+2025-03-01 17:32:08,776 - INFO - 成功处理: query_dense_12_1.graph - 时间: 217.63ms 匹配数: 33213816
+2025-03-01 17:32:08,777 - INFO - 开始处理: query_dense_12_2.graph
+2025-03-01 17:32:08,805 - DEBUG - query_dense_12_2.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6083100
+#Recursive calls: 6868
+Total time: 16.1287 ms
+Search time: 16.0291 ms
+
+2025-03-01 17:32:08,806 - INFO - 成功处理: query_dense_12_2.graph - 时间: 16.13ms 匹配数: 6083100
+2025-03-01 17:32:08,806 - INFO - 开始处理: query_dense_12_3.graph
