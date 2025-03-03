@@ -1,0 +1,883 @@
+2025-03-04 04:45:09,763 - INFO - 处理条件：类型=dense, 组号=[4], 文件范围=21-100, 输出文件=/home/myran/FaSTest_backup/FaSTest/dataset/dblp/dblp_ans.txt, 写入模式=追加
+2025-03-04 04:45:09,768 - INFO - 找到符合条件文件数量：80
+2025-03-04 04:45:09,768 - INFO - 开始处理: query_dense_4_21.graph
+2025-03-04 04:45:10,055 - DEBUG - query_dense_4_21.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8092
+#Recursive calls: 2728
+Total time: 5.38725 ms
+Search time: 0.218585 ms
+
+2025-03-04 04:45:10,055 - INFO - 成功处理: query_dense_4_21.graph - 时间: 5.39ms 匹配数: 8092
+2025-03-04 04:45:10,055 - INFO - 开始处理: query_dense_4_22.graph
+2025-03-04 04:45:10,312 - DEBUG - query_dense_4_22.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11115
+#Recursive calls: 2996
+Total time: 4.49657 ms
+Search time: 0.243786 ms
+
+2025-03-04 04:45:10,312 - INFO - 成功处理: query_dense_4_22.graph - 时间: 4.50ms 匹配数: 11115
+2025-03-04 04:45:10,312 - INFO - 开始处理: query_dense_4_23.graph
+2025-03-04 04:45:10,577 - DEBUG - query_dense_4_23.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 29258
+#Recursive calls: 1475
+Total time: 5.18031 ms
+Search time: 0.212898 ms
+
+2025-03-04 04:45:10,577 - INFO - 成功处理: query_dense_4_23.graph - 时间: 5.18ms 匹配数: 29258
+2025-03-04 04:45:10,578 - INFO - 开始处理: query_dense_4_24.graph
+2025-03-04 04:45:10,847 - DEBUG - query_dense_4_24.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9916
+#Recursive calls: 2833
+Total time: 3.85214 ms
+Search time: 0.316461 ms
+
+2025-03-04 04:45:10,847 - INFO - 成功处理: query_dense_4_24.graph - 时间: 3.85ms 匹配数: 9916
+2025-03-04 04:45:10,847 - INFO - 开始处理: query_dense_4_25.graph
+2025-03-04 04:45:11,072 - DEBUG - query_dense_4_25.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8220
+#Recursive calls: 3239
+Total time: 7.03365 ms
+Search time: 0.231131 ms
+
+2025-03-04 04:45:11,072 - INFO - 成功处理: query_dense_4_25.graph - 时间: 7.03ms 匹配数: 8220
+2025-03-04 04:45:11,072 - INFO - 开始处理: query_dense_4_26.graph
+2025-03-04 04:45:11,334 - DEBUG - query_dense_4_26.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7277
+#Recursive calls: 2600
+Total time: 4.25949 ms
+Search time: 0.196202 ms
+
+2025-03-04 04:45:11,334 - INFO - 成功处理: query_dense_4_26.graph - 时间: 4.26ms 匹配数: 7277
+2025-03-04 04:45:11,334 - INFO - 开始处理: query_dense_4_27.graph
+2025-03-04 04:45:11,590 - DEBUG - query_dense_4_27.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7828
+#Recursive calls: 2624
+Total time: 4.2394 ms
+Search time: 0.202261 ms
+
+2025-03-04 04:45:11,590 - INFO - 成功处理: query_dense_4_27.graph - 时间: 4.24ms 匹配数: 7828
+2025-03-04 04:45:11,590 - INFO - 开始处理: query_dense_4_28.graph
+2025-03-04 04:45:11,860 - DEBUG - query_dense_4_28.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 28635
+#Recursive calls: 2615
+Total time: 4.13151 ms
+Search time: 0.388153 ms
+
+2025-03-04 04:45:11,860 - INFO - 成功处理: query_dense_4_28.graph - 时间: 4.13ms 匹配数: 28635
+2025-03-04 04:45:11,860 - INFO - 开始处理: query_dense_4_29.graph
+2025-03-04 04:45:12,117 - DEBUG - query_dense_4_29.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11427
+#Recursive calls: 2180
+Total time: 4.2251 ms
+Search time: 0.175254 ms
+
+2025-03-04 04:45:12,118 - INFO - 成功处理: query_dense_4_29.graph - 时间: 4.23ms 匹配数: 11427
+2025-03-04 04:45:12,118 - INFO - 开始处理: query_dense_4_30.graph
+2025-03-04 04:45:12,370 - DEBUG - query_dense_4_30.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7345
+#Recursive calls: 2506
+Total time: 3.95061 ms
+Search time: 0.185915 ms
+
+2025-03-04 04:45:12,370 - INFO - 成功处理: query_dense_4_30.graph - 时间: 3.95ms 匹配数: 7345
+2025-03-04 04:45:12,371 - INFO - 开始处理: query_dense_4_31.graph
+2025-03-04 04:45:12,619 - DEBUG - query_dense_4_31.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 15314
+#Recursive calls: 3099
+Total time: 4.86534 ms
+Search time: 0.256311 ms
+
+2025-03-04 04:45:12,619 - INFO - 成功处理: query_dense_4_31.graph - 时间: 4.87ms 匹配数: 15314
+2025-03-04 04:45:12,619 - INFO - 开始处理: query_dense_4_32.graph
+2025-03-04 04:45:12,865 - DEBUG - query_dense_4_32.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 13793
+#Recursive calls: 2315
+Total time: 4.75537 ms
+Search time: 0.190195 ms
+
+2025-03-04 04:45:12,865 - INFO - 成功处理: query_dense_4_32.graph - 时间: 4.76ms 匹配数: 13793
+2025-03-04 04:45:12,865 - INFO - 开始处理: query_dense_4_33.graph
+2025-03-04 04:45:13,104 - DEBUG - query_dense_4_33.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 26523
+#Recursive calls: 1588
+Total time: 4.39093 ms
+Search time: 0.208284 ms
+
+2025-03-04 04:45:13,104 - INFO - 成功处理: query_dense_4_33.graph - 时间: 4.39ms 匹配数: 26523
+2025-03-04 04:45:13,104 - INFO - 开始处理: query_dense_4_34.graph
+2025-03-04 04:45:13,366 - DEBUG - query_dense_4_34.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7838
+#Recursive calls: 2602
+Total time: 4.32833 ms
+Search time: 0.194953 ms
+
+2025-03-04 04:45:13,366 - INFO - 成功处理: query_dense_4_34.graph - 时间: 4.33ms 匹配数: 7838
+2025-03-04 04:45:13,366 - INFO - 开始处理: query_dense_4_35.graph
+2025-03-04 04:45:13,622 - DEBUG - query_dense_4_35.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12371
+#Recursive calls: 3751
+Total time: 6.85111 ms
+Search time: 0.324063 ms
+
+2025-03-04 04:45:13,623 - INFO - 成功处理: query_dense_4_35.graph - 时间: 6.85ms 匹配数: 12371
+2025-03-04 04:45:13,623 - INFO - 开始处理: query_dense_4_36.graph
+2025-03-04 04:45:13,879 - DEBUG - query_dense_4_36.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9883
+#Recursive calls: 2870
+Total time: 3.98955 ms
+Search time: 0.224457 ms
+
+2025-03-04 04:45:13,879 - INFO - 成功处理: query_dense_4_36.graph - 时间: 3.99ms 匹配数: 9883
+2025-03-04 04:45:13,879 - INFO - 开始处理: query_dense_4_37.graph
+2025-03-04 04:45:14,126 - DEBUG - query_dense_4_37.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 14522
+#Recursive calls: 3356
+Total time: 3.77549 ms
+Search time: 0.286625 ms
+
+2025-03-04 04:45:14,127 - INFO - 成功处理: query_dense_4_37.graph - 时间: 3.78ms 匹配数: 14522
+2025-03-04 04:45:14,127 - INFO - 开始处理: query_dense_4_38.graph
+2025-03-04 04:45:14,383 - DEBUG - query_dense_4_38.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 10492
+#Recursive calls: 2160
+Total time: 4.01406 ms
+Search time: 0.166124 ms
+
+2025-03-04 04:45:14,383 - INFO - 成功处理: query_dense_4_38.graph - 时间: 4.01ms 匹配数: 10492
+2025-03-04 04:45:14,383 - INFO - 开始处理: query_dense_4_39.graph
+2025-03-04 04:45:14,640 - DEBUG - query_dense_4_39.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12346
+#Recursive calls: 2187
+Total time: 5.2489 ms
+Search time: 0.187885 ms
+
+2025-03-04 04:45:14,640 - INFO - 成功处理: query_dense_4_39.graph - 时间: 5.25ms 匹配数: 12346
+2025-03-04 04:45:14,640 - INFO - 开始处理: query_dense_4_40.graph
+2025-03-04 04:45:14,894 - DEBUG - query_dense_4_40.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 15758
+#Recursive calls: 3647
+Total time: 5.59601 ms
+Search time: 0.318968 ms
+
+2025-03-04 04:45:14,894 - INFO - 成功处理: query_dense_4_40.graph - 时间: 5.60ms 匹配数: 15758
+2025-03-04 04:45:14,894 - INFO - 开始处理: query_dense_4_41.graph
+2025-03-04 04:45:15,144 - DEBUG - query_dense_4_41.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11787
+#Recursive calls: 2304
+Total time: 4.25657 ms
+Search time: 0.186624 ms
+
+2025-03-04 04:45:15,144 - INFO - 成功处理: query_dense_4_41.graph - 时间: 4.26ms 匹配数: 11787
+2025-03-04 04:45:15,144 - INFO - 开始处理: query_dense_4_42.graph
+2025-03-04 04:45:15,418 - DEBUG - query_dense_4_42.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5964
+#Recursive calls: 2808
+Total time: 3.88911 ms
+Search time: 0.205142 ms
+
+2025-03-04 04:45:15,418 - INFO - 成功处理: query_dense_4_42.graph - 时间: 3.89ms 匹配数: 5964
+2025-03-04 04:45:15,418 - INFO - 开始处理: query_dense_4_43.graph
+2025-03-04 04:45:15,669 - DEBUG - query_dense_4_43.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 26123
+#Recursive calls: 1498
+Total time: 5.41364 ms
+Search time: 0.23082 ms
+
+2025-03-04 04:45:15,669 - INFO - 成功处理: query_dense_4_43.graph - 时间: 5.41ms 匹配数: 26123
+2025-03-04 04:45:15,669 - INFO - 开始处理: query_dense_4_44.graph
+2025-03-04 04:45:15,927 - DEBUG - query_dense_4_44.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11694
+#Recursive calls: 3845
+Total time: 5.56726 ms
+Search time: 0.35301 ms
+
+2025-03-04 04:45:15,927 - INFO - 成功处理: query_dense_4_44.graph - 时间: 5.57ms 匹配数: 11694
+2025-03-04 04:45:15,927 - INFO - 开始处理: query_dense_4_45.graph
+2025-03-04 04:45:16,181 - DEBUG - query_dense_4_45.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 25577
+#Recursive calls: 1667
+Total time: 5.47184 ms
+Search time: 0.226031 ms
+
+2025-03-04 04:45:16,181 - INFO - 成功处理: query_dense_4_45.graph - 时间: 5.47ms 匹配数: 25577
+2025-03-04 04:45:16,182 - INFO - 开始处理: query_dense_4_46.graph
+2025-03-04 04:45:16,433 - DEBUG - query_dense_4_46.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 19501
+#Recursive calls: 3561
+Total time: 4.20868 ms
+Search time: 0.317709 ms
+
+2025-03-04 04:45:16,433 - INFO - 成功处理: query_dense_4_46.graph - 时间: 4.21ms 匹配数: 19501
+2025-03-04 04:45:16,434 - INFO - 开始处理: query_dense_4_47.graph
+2025-03-04 04:45:16,685 - DEBUG - query_dense_4_47.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 13206
+#Recursive calls: 3162
+Total time: 4.46308 ms
+Search time: 0.369232 ms
+
+2025-03-04 04:45:16,685 - INFO - 成功处理: query_dense_4_47.graph - 时间: 4.46ms 匹配数: 13206
+2025-03-04 04:45:16,686 - INFO - 开始处理: query_dense_4_48.graph
+2025-03-04 04:45:16,947 - DEBUG - query_dense_4_48.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 13668
+#Recursive calls: 3475
+Total time: 6.13924 ms
+Search time: 0.482893 ms
+
+2025-03-04 04:45:16,947 - INFO - 成功处理: query_dense_4_48.graph - 时间: 6.14ms 匹配数: 13668
+2025-03-04 04:45:16,947 - INFO - 开始处理: query_dense_4_49.graph
+2025-03-04 04:45:17,221 - DEBUG - query_dense_4_49.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 26183
+#Recursive calls: 1592
+Total time: 5.30045 ms
+Search time: 0.231444 ms
+
+2025-03-04 04:45:17,221 - INFO - 成功处理: query_dense_4_49.graph - 时间: 5.30ms 匹配数: 26183
+2025-03-04 04:45:17,221 - INFO - 开始处理: query_dense_4_50.graph
+2025-03-04 04:45:17,468 - DEBUG - query_dense_4_50.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4696
+#Recursive calls: 2658
+Total time: 4.2201 ms
+Search time: 0.150185 ms
+
+2025-03-04 04:45:17,468 - INFO - 成功处理: query_dense_4_50.graph - 时间: 4.22ms 匹配数: 4696
+2025-03-04 04:45:17,469 - INFO - 开始处理: query_dense_4_51.graph
+2025-03-04 04:45:17,715 - DEBUG - query_dense_4_51.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11759
+#Recursive calls: 3221
+Total time: 3.88436 ms
+Search time: 0.3665 ms
+
+2025-03-04 04:45:17,715 - INFO - 成功处理: query_dense_4_51.graph - 时间: 3.88ms 匹配数: 11759
+2025-03-04 04:45:17,715 - INFO - 开始处理: query_dense_4_52.graph
+2025-03-04 04:45:17,959 - DEBUG - query_dense_4_52.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5765
+#Recursive calls: 2703
+Total time: 3.42314 ms
+Search time: 0.193407 ms
+
+2025-03-04 04:45:17,960 - INFO - 成功处理: query_dense_4_52.graph - 时间: 3.42ms 匹配数: 5765
+2025-03-04 04:45:17,960 - INFO - 开始处理: query_dense_4_53.graph
+2025-03-04 04:45:18,211 - DEBUG - query_dense_4_53.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5273
+#Recursive calls: 2473
+Total time: 3.62423 ms
+Search time: 0.178435 ms
+
+2025-03-04 04:45:18,211 - INFO - 成功处理: query_dense_4_53.graph - 时间: 3.62ms 匹配数: 5273
+2025-03-04 04:45:18,212 - INFO - 开始处理: query_dense_4_54.graph
+2025-03-04 04:45:18,465 - DEBUG - query_dense_4_54.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 17244
+#Recursive calls: 3748
+Total time: 5.12026 ms
+Search time: 0.319451 ms
+
+2025-03-04 04:45:18,465 - INFO - 成功处理: query_dense_4_54.graph - 时间: 5.12ms 匹配数: 17244
+2025-03-04 04:45:18,465 - INFO - 开始处理: query_dense_4_55.graph
+2025-03-04 04:45:18,715 - DEBUG - query_dense_4_55.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6959
+#Recursive calls: 2465
+Total time: 4.40911 ms
+Search time: 0.175738 ms
+
+2025-03-04 04:45:18,715 - INFO - 成功处理: query_dense_4_55.graph - 时间: 4.41ms 匹配数: 6959
+2025-03-04 04:45:18,715 - INFO - 开始处理: query_dense_4_56.graph
+2025-03-04 04:45:18,970 - DEBUG - query_dense_4_56.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 28184
+#Recursive calls: 2599
+Total time: 6.52871 ms
+Search time: 0.376823 ms
+
+2025-03-04 04:45:18,970 - INFO - 成功处理: query_dense_4_56.graph - 时间: 6.53ms 匹配数: 28184
+2025-03-04 04:45:18,971 - INFO - 开始处理: query_dense_4_57.graph
+2025-03-04 04:45:19,235 - DEBUG - query_dense_4_57.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7834
+#Recursive calls: 2902
+Total time: 5.12184 ms
+Search time: 0.212917 ms
+
+2025-03-04 04:45:19,235 - INFO - 成功处理: query_dense_4_57.graph - 时间: 5.12ms 匹配数: 7834
+2025-03-04 04:45:19,235 - INFO - 开始处理: query_dense_4_58.graph
+2025-03-04 04:45:19,489 - DEBUG - query_dense_4_58.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 10508
+#Recursive calls: 2441
+Total time: 6.23548 ms
+Search time: 0.383253 ms
+
+2025-03-04 04:45:19,489 - INFO - 成功处理: query_dense_4_58.graph - 时间: 6.24ms 匹配数: 10508
+2025-03-04 04:45:19,490 - INFO - 开始处理: query_dense_4_59.graph
+2025-03-04 04:45:19,746 - DEBUG - query_dense_4_59.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 20019
+#Recursive calls: 2211
+Total time: 5.15653 ms
+Search time: 0.221356 ms
+
+2025-03-04 04:45:19,746 - INFO - 成功处理: query_dense_4_59.graph - 时间: 5.16ms 匹配数: 20019
+2025-03-04 04:45:19,746 - INFO - 开始处理: query_dense_4_60.graph
+2025-03-04 04:45:19,998 - DEBUG - query_dense_4_60.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12863
+#Recursive calls: 2202
+Total time: 4.82323 ms
+Search time: 0.18534 ms
+
+2025-03-04 04:45:19,998 - INFO - 成功处理: query_dense_4_60.graph - 时间: 4.82ms 匹配数: 12863
+2025-03-04 04:45:19,998 - INFO - 开始处理: query_dense_4_61.graph
+2025-03-04 04:45:20,249 - DEBUG - query_dense_4_61.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 10318
+#Recursive calls: 3046
+Total time: 3.6621 ms
+Search time: 0.248352 ms
+
+2025-03-04 04:45:20,249 - INFO - 成功处理: query_dense_4_61.graph - 时间: 3.66ms 匹配数: 10318
+2025-03-04 04:45:20,249 - INFO - 开始处理: query_dense_4_62.graph
+2025-03-04 04:45:20,495 - DEBUG - query_dense_4_62.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 13336
+#Recursive calls: 3717
+Total time: 3.89089 ms
+Search time: 0.311788 ms
+
+2025-03-04 04:45:20,495 - INFO - 成功处理: query_dense_4_62.graph - 时间: 3.89ms 匹配数: 13336
+2025-03-04 04:45:20,495 - INFO - 开始处理: query_dense_4_63.graph
+2025-03-04 04:45:20,759 - DEBUG - query_dense_4_63.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12855
+#Recursive calls: 3243
+Total time: 5.64035 ms
+Search time: 0.328409 ms
+
+2025-03-04 04:45:20,759 - INFO - 成功处理: query_dense_4_63.graph - 时间: 5.64ms 匹配数: 12855
+2025-03-04 04:45:20,759 - INFO - 开始处理: query_dense_4_64.graph
+2025-03-04 04:45:21,007 - DEBUG - query_dense_4_64.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7744
+#Recursive calls: 2641
+Total time: 5.68216 ms
+Search time: 0.206147 ms
+
+2025-03-04 04:45:21,007 - INFO - 成功处理: query_dense_4_64.graph - 时间: 5.68ms 匹配数: 7744
+2025-03-04 04:45:21,007 - INFO - 开始处理: query_dense_4_65.graph
+2025-03-04 04:45:21,268 - DEBUG - query_dense_4_65.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 24043
+#Recursive calls: 1600
+Total time: 4.8515 ms
+Search time: 0.21548 ms
+
+2025-03-04 04:45:21,268 - INFO - 成功处理: query_dense_4_65.graph - 时间: 4.85ms 匹配数: 24043
+2025-03-04 04:45:21,268 - INFO - 开始处理: query_dense_4_66.graph
+2025-03-04 04:45:21,520 - DEBUG - query_dense_4_66.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7604
+#Recursive calls: 5597
+Total time: 6.20192 ms
+Search time: 0.343072 ms
+
+2025-03-04 04:45:21,520 - INFO - 成功处理: query_dense_4_66.graph - 时间: 6.20ms 匹配数: 7604
+2025-03-04 04:45:21,520 - INFO - 开始处理: query_dense_4_67.graph
+2025-03-04 04:45:21,776 - DEBUG - query_dense_4_67.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12136
+#Recursive calls: 3270
+Total time: 3.69444 ms
+Search time: 0.245662 ms
+
+2025-03-04 04:45:21,777 - INFO - 成功处理: query_dense_4_67.graph - 时间: 3.69ms 匹配数: 12136
+2025-03-04 04:45:21,777 - INFO - 开始处理: query_dense_4_68.graph
+2025-03-04 04:45:22,019 - DEBUG - query_dense_4_68.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 15138
+#Recursive calls: 5327
+Total time: 5.65835 ms
+Search time: 0.547966 ms
+
+2025-03-04 04:45:22,020 - INFO - 成功处理: query_dense_4_68.graph - 时间: 5.66ms 匹配数: 15138
+2025-03-04 04:45:22,020 - INFO - 开始处理: query_dense_4_69.graph
+2025-03-04 04:45:22,286 - DEBUG - query_dense_4_69.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 19124
+#Recursive calls: 4264
+Total time: 4.71747 ms
+Search time: 0.391316 ms
+
+2025-03-04 04:45:22,287 - INFO - 成功处理: query_dense_4_69.graph - 时间: 4.72ms 匹配数: 19124
+2025-03-04 04:45:22,287 - INFO - 开始处理: query_dense_4_70.graph
+2025-03-04 04:45:22,555 - DEBUG - query_dense_4_70.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 14364
+#Recursive calls: 3054
+Total time: 5.41869 ms
+Search time: 0.265586 ms
+
+2025-03-04 04:45:22,555 - INFO - 成功处理: query_dense_4_70.graph - 时间: 5.42ms 匹配数: 14364
+2025-03-04 04:45:22,555 - INFO - 开始处理: query_dense_4_71.graph
+2025-03-04 04:45:22,813 - DEBUG - query_dense_4_71.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 22944
+#Recursive calls: 1579
+Total time: 4.59428 ms
+Search time: 0.202967 ms
+
+2025-03-04 04:45:22,813 - INFO - 成功处理: query_dense_4_71.graph - 时间: 4.59ms 匹配数: 22944
+2025-03-04 04:45:22,814 - INFO - 开始处理: query_dense_4_72.graph
+2025-03-04 04:45:23,062 - DEBUG - query_dense_4_72.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6099
+#Recursive calls: 2419
+Total time: 3.58385 ms
+Search time: 0.235017 ms
+
+2025-03-04 04:45:23,062 - INFO - 成功处理: query_dense_4_72.graph - 时间: 3.58ms 匹配数: 6099
+2025-03-04 04:45:23,062 - INFO - 开始处理: query_dense_4_73.graph
+2025-03-04 04:45:23,310 - DEBUG - query_dense_4_73.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12443
+#Recursive calls: 3408
+Total time: 4.26833 ms
+Search time: 0.35856 ms
+
+2025-03-04 04:45:23,310 - INFO - 成功处理: query_dense_4_73.graph - 时间: 4.27ms 匹配数: 12443
+2025-03-04 04:45:23,310 - INFO - 开始处理: query_dense_4_74.graph
+2025-03-04 04:45:23,574 - DEBUG - query_dense_4_74.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 10468
+#Recursive calls: 3285
+Total time: 4.50657 ms
+Search time: 0.2662 ms
+
+2025-03-04 04:45:23,574 - INFO - 成功处理: query_dense_4_74.graph - 时间: 4.51ms 匹配数: 10468
+2025-03-04 04:45:23,574 - INFO - 开始处理: query_dense_4_75.graph
+2025-03-04 04:45:23,812 - DEBUG - query_dense_4_75.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 14890
+#Recursive calls: 3850
+Total time: 4.89149 ms
+Search time: 0.335931 ms
+
+2025-03-04 04:45:23,812 - INFO - 成功处理: query_dense_4_75.graph - 时间: 4.89ms 匹配数: 14890
+2025-03-04 04:45:23,813 - INFO - 开始处理: query_dense_4_76.graph
+2025-03-04 04:45:24,053 - DEBUG - query_dense_4_76.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 19548
+#Recursive calls: 4411
+Total time: 5.34205 ms
+Search time: 0.386537 ms
+
+2025-03-04 04:45:24,053 - INFO - 成功处理: query_dense_4_76.graph - 时间: 5.34ms 匹配数: 19548
+2025-03-04 04:45:24,053 - INFO - 开始处理: query_dense_4_77.graph
+2025-03-04 04:45:24,309 - DEBUG - query_dense_4_77.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 15381
+#Recursive calls: 3900
+Total time: 4.21233 ms
+Search time: 0.289759 ms
+
+2025-03-04 04:45:24,309 - INFO - 成功处理: query_dense_4_77.graph - 时间: 4.21ms 匹配数: 15381
+2025-03-04 04:45:24,309 - INFO - 开始处理: query_dense_4_78.graph
+2025-03-04 04:45:24,554 - DEBUG - query_dense_4_78.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12154
+#Recursive calls: 3037
+Total time: 3.81687 ms
+Search time: 0.257205 ms
+
+2025-03-04 04:45:24,555 - INFO - 成功处理: query_dense_4_78.graph - 时间: 3.82ms 匹配数: 12154
+2025-03-04 04:45:24,555 - INFO - 开始处理: query_dense_4_79.graph
+2025-03-04 04:45:24,801 - DEBUG - query_dense_4_79.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6721
+#Recursive calls: 2606
+Total time: 4.9181 ms
+Search time: 0.182305 ms
+
+2025-03-04 04:45:24,801 - INFO - 成功处理: query_dense_4_79.graph - 时间: 4.92ms 匹配数: 6721
+2025-03-04 04:45:24,801 - INFO - 开始处理: query_dense_4_80.graph
+2025-03-04 04:45:25,062 - DEBUG - query_dense_4_80.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9744
+#Recursive calls: 2706
+Total time: 4.45065 ms
+Search time: 0.207748 ms
+
+2025-03-04 04:45:25,062 - INFO - 成功处理: query_dense_4_80.graph - 时间: 4.45ms 匹配数: 9744
+2025-03-04 04:45:25,062 - INFO - 开始处理: query_dense_4_81.graph
+2025-03-04 04:45:25,328 - DEBUG - query_dense_4_81.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11127
+#Recursive calls: 2280
+Total time: 4.07475 ms
+Search time: 0.195703 ms
+
+2025-03-04 04:45:25,329 - INFO - 成功处理: query_dense_4_81.graph - 时间: 4.07ms 匹配数: 11127
+2025-03-04 04:45:25,329 - INFO - 开始处理: query_dense_4_82.graph
+2025-03-04 04:45:25,579 - DEBUG - query_dense_4_82.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6226
+#Recursive calls: 2837
+Total time: 3.7847 ms
+Search time: 0.229554 ms
+
+2025-03-04 04:45:25,579 - INFO - 成功处理: query_dense_4_82.graph - 时间: 3.78ms 匹配数: 6226
+2025-03-04 04:45:25,579 - INFO - 开始处理: query_dense_4_83.graph
+2025-03-04 04:45:25,822 - DEBUG - query_dense_4_83.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12971
+#Recursive calls: 3013
+Total time: 4.26114 ms
+Search time: 0.253775 ms
+
+2025-03-04 04:45:25,822 - INFO - 成功处理: query_dense_4_83.graph - 时间: 4.26ms 匹配数: 12971
+2025-03-04 04:45:25,822 - INFO - 开始处理: query_dense_4_84.graph
+2025-03-04 04:45:26,067 - DEBUG - query_dense_4_84.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12971
+#Recursive calls: 3011
+Total time: 3.987 ms
+Search time: 0.269546 ms
+
+2025-03-04 04:45:26,067 - INFO - 成功处理: query_dense_4_84.graph - 时间: 3.99ms 匹配数: 12971
+2025-03-04 04:45:26,067 - INFO - 开始处理: query_dense_4_85.graph
+2025-03-04 04:45:26,320 - DEBUG - query_dense_4_85.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11129
+#Recursive calls: 2202
+Total time: 4.40189 ms
+Search time: 0.263884 ms
+
+2025-03-04 04:45:26,320 - INFO - 成功处理: query_dense_4_85.graph - 时间: 4.40ms 匹配数: 11129
+2025-03-04 04:45:26,320 - INFO - 开始处理: query_dense_4_86.graph
+2025-03-04 04:45:26,577 - DEBUG - query_dense_4_86.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 16466
+#Recursive calls: 2299
+Total time: 5.35912 ms
+Search time: 0.193997 ms
+
+2025-03-04 04:45:26,577 - INFO - 成功处理: query_dense_4_86.graph - 时间: 5.36ms 匹配数: 16466
+2025-03-04 04:45:26,577 - INFO - 开始处理: query_dense_4_87.graph
+2025-03-04 04:45:26,837 - DEBUG - query_dense_4_87.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 26077
+#Recursive calls: 1713
+Total time: 5.36044 ms
+Search time: 0.236641 ms
+
+2025-03-04 04:45:26,838 - INFO - 成功处理: query_dense_4_87.graph - 时间: 5.36ms 匹配数: 26077
+2025-03-04 04:45:26,838 - INFO - 开始处理: query_dense_4_88.graph
+2025-03-04 04:45:27,089 - DEBUG - query_dense_4_88.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6627
+#Recursive calls: 2963
+Total time: 5.25729 ms
+Search time: 0.306111 ms
+
+2025-03-04 04:45:27,089 - INFO - 成功处理: query_dense_4_88.graph - 时间: 5.26ms 匹配数: 6627
+2025-03-04 04:45:27,090 - INFO - 开始处理: query_dense_4_89.graph
+2025-03-04 04:45:27,358 - DEBUG - query_dense_4_89.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8930
+#Recursive calls: 2418
+Total time: 4.54903 ms
+Search time: 0.213302 ms
+
+2025-03-04 04:45:27,358 - INFO - 成功处理: query_dense_4_89.graph - 时间: 4.55ms 匹配数: 8930
+2025-03-04 04:45:27,358 - INFO - 开始处理: query_dense_4_90.graph
+2025-03-04 04:45:27,605 - DEBUG - query_dense_4_90.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 16127
+#Recursive calls: 2107
+Total time: 3.74773 ms
+Search time: 0.177766 ms
+
+2025-03-04 04:45:27,605 - INFO - 成功处理: query_dense_4_90.graph - 时间: 3.75ms 匹配数: 16127
+2025-03-04 04:45:27,605 - INFO - 开始处理: query_dense_4_91.graph
+2025-03-04 04:45:27,867 - DEBUG - query_dense_4_91.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8072
+#Recursive calls: 2190
+Total time: 5.79905 ms
+Search time: 0.165711 ms
+
+2025-03-04 04:45:27,867 - INFO - 成功处理: query_dense_4_91.graph - 时间: 5.80ms 匹配数: 8072
+2025-03-04 04:45:27,867 - INFO - 开始处理: query_dense_4_92.graph
+2025-03-04 04:45:28,106 - DEBUG - query_dense_4_92.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11260
+#Recursive calls: 3085
+Total time: 3.73156 ms
+Search time: 0.2475 ms
+
+2025-03-04 04:45:28,106 - INFO - 成功处理: query_dense_4_92.graph - 时间: 3.73ms 匹配数: 11260
+2025-03-04 04:45:28,106 - INFO - 开始处理: query_dense_4_93.graph
+2025-03-04 04:45:28,366 - DEBUG - query_dense_4_93.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 19246
+#Recursive calls: 3533
+Total time: 3.73361 ms
+Search time: 0.342717 ms
+
+2025-03-04 04:45:28,366 - INFO - 成功处理: query_dense_4_93.graph - 时间: 3.73ms 匹配数: 19246
+2025-03-04 04:45:28,366 - INFO - 开始处理: query_dense_4_94.graph
+2025-03-04 04:45:28,614 - DEBUG - query_dense_4_94.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8852
+#Recursive calls: 2866
+Total time: 3.75469 ms
+Search time: 0.214243 ms
+
+2025-03-04 04:45:28,614 - INFO - 成功处理: query_dense_4_94.graph - 时间: 3.75ms 匹配数: 8852
+2025-03-04 04:45:28,614 - INFO - 开始处理: query_dense_4_95.graph
+2025-03-04 04:45:28,873 - DEBUG - query_dense_4_95.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 10112
+#Recursive calls: 2174
+Total time: 4.88394 ms
+Search time: 0.185053 ms
+
+2025-03-04 04:45:28,873 - INFO - 成功处理: query_dense_4_95.graph - 时间: 4.88ms 匹配数: 10112
+2025-03-04 04:45:28,873 - INFO - 开始处理: query_dense_4_96.graph
+2025-03-04 04:45:29,137 - DEBUG - query_dense_4_96.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 23622
+#Recursive calls: 1538
+Total time: 4.97392 ms
+Search time: 0.202175 ms
+
+2025-03-04 04:45:29,137 - INFO - 成功处理: query_dense_4_96.graph - 时间: 4.97ms 匹配数: 23622
+2025-03-04 04:45:29,138 - INFO - 开始处理: query_dense_4_97.graph
+2025-03-04 04:45:29,393 - DEBUG - query_dense_4_97.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5587
+#Recursive calls: 2672
+Total time: 3.79171 ms
+Search time: 0.175352 ms
+
+2025-03-04 04:45:29,393 - INFO - 成功处理: query_dense_4_97.graph - 时间: 3.79ms 匹配数: 5587
+2025-03-04 04:45:29,393 - INFO - 开始处理: query_dense_4_98.graph
+2025-03-04 04:45:29,636 - DEBUG - query_dense_4_98.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5000
+#Recursive calls: 2726
+Total time: 4.45487 ms
+Search time: 0.193325 ms
+
+2025-03-04 04:45:29,636 - INFO - 成功处理: query_dense_4_98.graph - 时间: 4.45ms 匹配数: 5000
+2025-03-04 04:45:29,637 - INFO - 开始处理: query_dense_4_99.graph
+2025-03-04 04:45:29,888 - DEBUG - query_dense_4_99.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8896
+#Recursive calls: 2663
+Total time: 4.78339 ms
+Search time: 0.208885 ms
+
+2025-03-04 04:45:29,888 - INFO - 成功处理: query_dense_4_99.graph - 时间: 4.78ms 匹配数: 8896
+2025-03-04 04:45:29,888 - INFO - 开始处理: query_dense_4_100.graph
+2025-03-04 04:45:30,142 - DEBUG - query_dense_4_100.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 30912
+#Recursive calls: 1651
+Total time: 5.30413 ms
+Search time: 0.214004 ms
+
+2025-03-04 04:45:30,142 - INFO - 成功处理: query_dense_4_100.graph - 时间: 5.30ms 匹配数: 30912
+2025-03-04 04:45:30,142 - INFO - 处理任务全部完成

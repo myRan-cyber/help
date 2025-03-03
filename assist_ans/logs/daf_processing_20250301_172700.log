@@ -1,7 +1,0 @@
-2025-03-01 17:27:00,113 - ERROR - 获取查询文件列表时发生错误
-Traceback (most recent call last):
-  File "/home/myran/Assistance-for-FaSTest/assist_ans/batch_process_v1.py", line 65, in <module>
-    query_graph_files = sorted([f for f in os.listdir(query_graph_folder) if f.endswith('.graph')],
-  File "/home/myran/Assistance-for-FaSTest/assist_ans/batch_process_v1.py", line 61, in get_sort_key
-    return (prefix, order.index(group_number), file_number)
-ValueError: 20 is not in list
