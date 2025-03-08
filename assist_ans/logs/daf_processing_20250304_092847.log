@@ -1,0 +1,86 @@
+2025-03-04 09:28:47,618 - INFO - 处理条件：类型=dense, 组号=[12], 文件范围=1-200, 输出文件=/home/myran/FaSTest_backup/FaSTest/dataset/human/human_ans.txt, 写入模式=追加
+2025-03-04 09:28:47,626 - INFO - 找到符合条件文件数量：200
+2025-03-04 09:28:47,626 - INFO - 开始处理: query_dense_12_1.graph
+2025-03-04 09:28:47,770 - DEBUG - query_dense_12_1.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 33213816
+#Recursive calls: 499132
+Total time: 124.352 ms
+Search time: 124.292 ms
+
+2025-03-04 09:28:47,771 - INFO - 成功处理: query_dense_12_1.graph - 时间: 124.35ms 匹配数: 33213816
+2025-03-04 09:28:47,771 - INFO - 开始处理: query_dense_12_2.graph
+2025-03-04 09:28:47,810 - DEBUG - query_dense_12_2.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6083100
+#Recursive calls: 6868
+Total time: 17.1156 ms
+Search time: 16.9753 ms
+
+2025-03-04 09:28:47,810 - INFO - 成功处理: query_dense_12_2.graph - 时间: 17.12ms 匹配数: 6083100
+2025-03-04 09:28:47,810 - INFO - 开始处理: query_dense_12_3.graph
+2025-03-04 09:38:47,914 - ERROR - 处理超时: query_dense_12_3.graph (超过 600 秒)
+2025-03-04 09:38:47,914 - INFO - 开始处理: query_dense_12_4.graph
+2025-03-04 09:38:57,581 - DEBUG - query_dense_12_4.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 896269400
+#Recursive calls: 29175818
+Total time: 9651.66 ms
+Search time: 9651.52 ms
+
+2025-03-04 09:38:57,581 - INFO - 成功处理: query_dense_12_4.graph - 时间: 9651.66ms 匹配数: 896269400
+2025-03-04 09:38:57,581 - INFO - 开始处理: query_dense_12_5.graph
+2025-03-04 09:48:57,685 - ERROR - 处理超时: query_dense_12_5.graph (超过 600 秒)
+2025-03-04 09:48:57,685 - INFO - 开始处理: query_dense_12_6.graph
+2025-03-04 09:51:42,612 - DEBUG - query_dense_12_6.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 16730810880
+#Recursive calls: 381995550
+Total time: 164915 ms
+Search time: 164914 ms
+
+2025-03-04 09:51:42,612 - INFO - 成功处理: query_dense_12_6.graph - 时间: 164915.00ms 匹配数: 16730810880
+2025-03-04 09:51:42,612 - INFO - 开始处理: query_dense_12_7.graph
+2025-03-04 10:01:42,715 - ERROR - 处理超时: query_dense_12_7.graph (超过 600 秒)
+2025-03-04 10:01:42,715 - INFO - 开始处理: query_dense_12_8.graph
+2025-03-04 10:11:42,817 - ERROR - 处理超时: query_dense_12_8.graph (超过 600 秒)
+2025-03-04 10:11:42,818 - INFO - 开始处理: query_dense_12_9.graph
+2025-03-04 10:21:42,872 - ERROR - 处理超时: query_dense_12_9.graph (超过 600 秒)
+2025-03-04 10:21:42,872 - INFO - 开始处理: query_dense_12_10.graph
+2025-03-04 10:31:42,920 - ERROR - 处理超时: query_dense_12_10.graph (超过 600 秒)
+2025-03-04 10:31:42,920 - INFO - 开始处理: query_dense_12_11.graph
+2025-03-04 10:31:52,389 - DEBUG - query_dense_12_11.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8880248520
+#Recursive calls: 5438652
+Total time: 9452.46 ms
+Search time: 9452.35 ms
+
+2025-03-04 10:31:52,389 - INFO - 成功处理: query_dense_12_11.graph - 时间: 9452.46ms 匹配数: 8880248520
+2025-03-04 10:31:52,389 - INFO - 开始处理: query_dense_12_12.graph
+2025-03-04 10:41:52,503 - ERROR - 处理超时: query_dense_12_12.graph (超过 600 秒)
+2025-03-04 10:41:52,504 - INFO - 开始处理: query_dense_12_13.graph
+2025-03-04 10:51:52,643 - ERROR - 处理超时: query_dense_12_13.graph (超过 600 秒)
+2025-03-04 10:51:52,715 - INFO - 开始处理: query_dense_12_14.graph
+2025-03-04 11:01:53,042 - ERROR - 处理超时: query_dense_12_14.graph (超过 600 秒)
+2025-03-04 11:01:53,171 - INFO - 开始处理: query_dense_12_15.graph
+2025-03-04 20:11:29,947 - ERROR - 处理超时: query_dense_12_15.graph (超过 600 秒)
+2025-03-04 20:11:29,963 - INFO - 开始处理: query_dense_12_16.graph
+2025-03-04 20:21:30,434 - ERROR - 处理超时: query_dense_12_16.graph (超过 600 秒)
+2025-03-04 20:21:30,507 - INFO - 开始处理: query_dense_12_17.graph
+2025-03-04 20:31:31,089 - ERROR - 处理超时: query_dense_12_17.graph (超过 600 秒)
+2025-03-04 20:31:31,089 - INFO - 开始处理: query_dense_12_18.graph
+2025-03-04 20:41:31,123 - ERROR - 处理超时: query_dense_12_18.graph (超过 600 秒)
+2025-03-04 20:41:31,123 - INFO - 开始处理: query_dense_12_19.graph
+2025-03-04 20:51:31,282 - ERROR - 处理超时: query_dense_12_19.graph (超过 600 秒)
+2025-03-04 20:51:31,338 - INFO - 开始处理: query_dense_12_20.graph

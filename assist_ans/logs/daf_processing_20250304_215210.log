@@ -1,0 +1,63 @@
+2025-03-04 21:52:10,712 - INFO - 处理条件：类型=dense, 组号=[12], 文件范围=20-40, 输出文件=/home/myran/FaSTest_backup/FaSTest/dataset/human/human_ans.txt, 写入模式=追加
+2025-03-04 21:52:10,714 - INFO - 找到符合条件文件数量：21
+2025-03-04 21:52:10,714 - INFO - 开始处理: query_dense_12_20.graph
+2025-03-04 22:02:10,863 - ERROR - 处理超时: query_dense_12_20.graph (超过 600 秒)
+2025-03-04 22:02:10,865 - INFO - 开始处理: query_dense_12_21.graph
+2025-03-04 22:02:13,721 - DEBUG - query_dense_12_21.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8162257572
+#Recursive calls: 690170
+Total time: 2842.11 ms
+Search time: 2842.01 ms
+
+2025-03-04 22:02:13,721 - INFO - 成功处理: query_dense_12_21.graph - 时间: 2842.11ms 匹配数: 8162257572
+2025-03-04 22:02:13,721 - INFO - 开始处理: query_dense_12_22.graph
+2025-03-04 22:02:13,739 - DEBUG - query_dense_12_22.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 2405304
+#Recursive calls: 1587
+Total time: 0.684555 ms
+Search time: 0.61488 ms
+
+2025-03-04 22:02:13,739 - INFO - 成功处理: query_dense_12_22.graph - 时间: 0.68ms 匹配数: 2405304
+2025-03-04 22:02:13,739 - INFO - 开始处理: query_dense_12_23.graph
+2025-03-04 22:12:14,222 - ERROR - 处理超时: query_dense_12_23.graph (超过 600 秒)
+2025-03-04 22:12:14,222 - INFO - 开始处理: query_dense_12_24.graph
+2025-03-04 22:12:14,416 - DEBUG - query_dense_12_24.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8970576
+#Recursive calls: 4556590
+Total time: 180.689 ms
+Search time: 180.58 ms
+
+2025-03-04 22:12:14,416 - INFO - 成功处理: query_dense_12_24.graph - 时间: 180.69ms 匹配数: 8970576
+2025-03-04 22:12:14,416 - INFO - 开始处理: query_dense_12_25.graph
+2025-03-04 22:23:08,035 - ERROR - 处理超时: query_dense_12_25.graph (超过 600 秒)
+2025-03-04 22:23:08,035 - INFO - 开始处理: query_dense_12_26.graph
+2025-03-04 22:33:08,209 - ERROR - 处理超时: query_dense_12_26.graph (超过 600 秒)
+2025-03-04 22:33:08,209 - INFO - 开始处理: query_dense_12_27.graph
+2025-03-04 22:43:08,494 - ERROR - 处理超时: query_dense_12_27.graph (超过 600 秒)
+2025-03-04 22:43:08,495 - INFO - 开始处理: query_dense_12_28.graph
+2025-03-04 22:53:09,067 - ERROR - 处理超时: query_dense_12_28.graph (超过 600 秒)
+2025-03-04 22:53:09,067 - INFO - 开始处理: query_dense_12_29.graph
+2025-03-04 23:03:09,389 - ERROR - 处理超时: query_dense_12_29.graph (超过 600 秒)
+2025-03-04 23:03:09,389 - INFO - 开始处理: query_dense_12_30.graph
+2025-03-04 23:13:09,393 - ERROR - 处理超时: query_dense_12_30.graph (超过 600 秒)
+2025-03-04 23:13:09,393 - INFO - 开始处理: query_dense_12_31.graph
+2025-03-04 23:13:09,414 - DEBUG - query_dense_12_31.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 198936
+#Recursive calls: 7126
+Total time: 1.38652 ms
+Search time: 1.32056 ms
+
+2025-03-04 23:13:09,414 - INFO - 成功处理: query_dense_12_31.graph - 时间: 1.39ms 匹配数: 198936
+2025-03-04 23:13:09,415 - INFO - 开始处理: query_dense_12_32.graph

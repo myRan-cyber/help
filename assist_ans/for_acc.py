@@ -80,8 +80,8 @@ def parse_arguments():
     }
 
 # 文件路径配置（移除了固定的output_file）
-data_graph_file = '/home/myran/FaSTest_backup/FaSTest/dataset/dblp/dblp.graph'
-query_graph_folder = '/home/myran/FaSTest_backup/FaSTest/dataset/dblp/query_graph/'
+data_graph_file = '/home/myran/FaSTest_backup/FaSTest/dataset/human/human.graph'
+query_graph_folder = '/home/myran/FaSTest_backup/FaSTest/dataset/human/query_graph/'
 
 # 排序函数保持不变
 def get_sort_key(filename):
@@ -102,7 +102,7 @@ try:
                  f"输出文件={args['output_file']}, "
                  f"写入模式={'覆盖' if args['write_mode'] == 'w' else '追加'}")
 
-    # 获取并过滤文件列表（保持不变）
+    # 获取并过滤文件列表
     query_graph_files = []
     for f in os.listdir(query_graph_folder):
         if not f.endswith('.graph'):

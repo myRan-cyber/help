@@ -1,0 +1,29 @@
+2025-03-04 06:45:13,759 - INFO - 处理条件：类型=sparse, 组号=[16], 文件范围=1-200, 输出文件=/home/myran/FaSTest_backup/FaSTest/dataset/dblp/dblp_ans.txt, 写入模式=追加
+2025-03-04 06:45:13,763 - INFO - 找到符合条件文件数量：200
+2025-03-04 06:45:13,763 - INFO - 开始处理: query_sparse_16_1.graph
+2025-03-04 06:55:13,807 - ERROR - 处理超时: query_sparse_16_1.graph (超过 600 秒)
+2025-03-04 06:55:13,807 - INFO - 开始处理: query_sparse_16_2.graph
+2025-03-04 07:05:13,865 - ERROR - 处理超时: query_sparse_16_2.graph (超过 600 秒)
+2025-03-04 07:05:13,865 - INFO - 开始处理: query_sparse_16_3.graph
+2025-03-04 07:15:13,959 - ERROR - 处理超时: query_sparse_16_3.graph (超过 600 秒)
+2025-03-04 07:15:13,959 - INFO - 开始处理: query_sparse_16_4.graph
+2025-03-04 07:25:14,064 - ERROR - 处理超时: query_sparse_16_4.graph (超过 600 秒)
+2025-03-04 07:25:14,064 - INFO - 开始处理: query_sparse_16_5.graph
+2025-03-04 07:35:14,292 - ERROR - 处理超时: query_sparse_16_5.graph (超过 600 秒)
+2025-03-04 07:35:14,292 - INFO - 开始处理: query_sparse_16_6.graph
+2025-03-04 07:45:14,433 - ERROR - 处理超时: query_sparse_16_6.graph (超过 600 秒)
+2025-03-04 07:45:14,434 - INFO - 开始处理: query_sparse_16_7.graph
+2025-03-04 07:55:14,481 - ERROR - 处理超时: query_sparse_16_7.graph (超过 600 秒)
+2025-03-04 07:55:14,481 - INFO - 开始处理: query_sparse_16_8.graph
+2025-03-04 08:05:14,496 - ERROR - 处理超时: query_sparse_16_8.graph (超过 600 秒)
+2025-03-04 08:05:14,496 - INFO - 开始处理: query_sparse_16_9.graph
+2025-03-04 08:15:14,757 - ERROR - 处理超时: query_sparse_16_9.graph (超过 600 秒)
+2025-03-04 08:15:14,758 - INFO - 开始处理: query_sparse_16_10.graph
+2025-03-04 08:25:14,931 - ERROR - 处理超时: query_sparse_16_10.graph (超过 600 秒)
+2025-03-04 08:25:14,932 - INFO - 开始处理: query_sparse_16_11.graph
+2025-03-04 08:35:15,127 - ERROR - 处理超时: query_sparse_16_11.graph (超过 600 秒)
+2025-03-04 08:35:15,127 - INFO - 开始处理: query_sparse_16_12.graph
+2025-03-04 08:45:15,345 - ERROR - 处理超时: query_sparse_16_12.graph (超过 600 秒)
+2025-03-04 08:45:15,345 - INFO - 开始处理: query_sparse_16_13.graph
+2025-03-04 08:55:15,601 - ERROR - 处理超时: query_sparse_16_13.graph (超过 600 秒)
+2025-03-04 08:55:15,602 - INFO - 开始处理: query_sparse_16_14.graph

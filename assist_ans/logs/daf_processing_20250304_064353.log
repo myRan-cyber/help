@@ -1,0 +1,2203 @@
+2025-03-04 06:43:53,826 - INFO - 处理条件：类型=sparse, 组号=[8], 文件范围=1-200, 输出文件=/home/myran/FaSTest_backup/FaSTest/dataset/dblp/dblp_ans.txt, 写入模式=追加
+2025-03-04 06:43:53,829 - INFO - 找到符合条件文件数量：200
+2025-03-04 06:43:53,829 - INFO - 开始处理: query_sparse_8_1.graph
+2025-03-04 06:43:54,314 - DEBUG - query_sparse_8_1.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 35786953
+#Recursive calls: 628575
+Total time: 187.589 ms
+Search time: 182.234 ms
+
+2025-03-04 06:43:54,314 - INFO - 成功处理: query_sparse_8_1.graph - 时间: 187.59ms 匹配数: 35786953
+2025-03-04 06:43:54,315 - INFO - 开始处理: query_sparse_8_2.graph
+2025-03-04 06:43:54,637 - DEBUG - query_sparse_8_2.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 31480525
+#Recursive calls: 38588
+Total time: 24.3485 ms
+Search time: 20.2348 ms
+
+2025-03-04 06:43:54,637 - INFO - 成功处理: query_sparse_8_2.graph - 时间: 24.35ms 匹配数: 31480525
+2025-03-04 06:43:54,637 - INFO - 开始处理: query_sparse_8_3.graph
+2025-03-04 06:43:55,042 - DEBUG - query_sparse_8_3.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 3092122
+#Recursive calls: 10216
+Total time: 119.314 ms
+Search time: 113.974 ms
+
+2025-03-04 06:43:55,042 - INFO - 成功处理: query_sparse_8_3.graph - 时间: 119.31ms 匹配数: 3092122
+2025-03-04 06:43:55,042 - INFO - 开始处理: query_sparse_8_4.graph
+2025-03-04 06:43:55,443 - DEBUG - query_sparse_8_4.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 24557000
+#Recursive calls: 555126
+Total time: 148.636 ms
+Search time: 143.46 ms
+
+2025-03-04 06:43:55,444 - INFO - 成功处理: query_sparse_8_4.graph - 时间: 148.64ms 匹配数: 24557000
+2025-03-04 06:43:55,444 - INFO - 开始处理: query_sparse_8_5.graph
+2025-03-04 06:43:55,777 - DEBUG - query_sparse_8_5.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7517388
+#Recursive calls: 97099
+Total time: 56.3398 ms
+Search time: 51.681 ms
+
+2025-03-04 06:43:55,777 - INFO - 成功处理: query_sparse_8_5.graph - 时间: 56.34ms 匹配数: 7517388
+2025-03-04 06:43:55,777 - INFO - 开始处理: query_sparse_8_6.graph
+2025-03-04 06:43:56,118 - DEBUG - query_sparse_8_6.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 37704738
+#Recursive calls: 163504
+Total time: 59.4062 ms
+Search time: 53.7887 ms
+
+2025-03-04 06:43:56,118 - INFO - 成功处理: query_sparse_8_6.graph - 时间: 59.41ms 匹配数: 37704738
+2025-03-04 06:43:56,118 - INFO - 开始处理: query_sparse_8_7.graph
+2025-03-04 06:43:56,438 - DEBUG - query_sparse_8_7.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8488955
+#Recursive calls: 120901
+Total time: 41.711 ms
+Search time: 37.3564 ms
+
+2025-03-04 06:43:56,438 - INFO - 成功处理: query_sparse_8_7.graph - 时间: 41.71ms 匹配数: 8488955
+2025-03-04 06:43:56,438 - INFO - 开始处理: query_sparse_8_8.graph
+2025-03-04 06:43:56,735 - DEBUG - query_sparse_8_8.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 19366121
+#Recursive calls: 33160
+Total time: 21.6205 ms
+Search time: 16.9324 ms
+
+2025-03-04 06:43:56,735 - INFO - 成功处理: query_sparse_8_8.graph - 时间: 21.62ms 匹配数: 19366121
+2025-03-04 06:43:56,736 - INFO - 开始处理: query_sparse_8_9.graph
+2025-03-04 06:43:57,143 - DEBUG - query_sparse_8_9.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 30585740
+#Recursive calls: 294091
+Total time: 100.905 ms
+Search time: 97.1419 ms
+
+2025-03-04 06:43:57,143 - INFO - 成功处理: query_sparse_8_9.graph - 时间: 100.91ms 匹配数: 30585740
+2025-03-04 06:43:57,143 - INFO - 开始处理: query_sparse_8_10.graph
+2025-03-04 06:43:57,546 - DEBUG - query_sparse_8_10.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 24333692
+#Recursive calls: 402144
+Total time: 131.978 ms
+Search time: 127.353 ms
+
+2025-03-04 06:43:57,546 - INFO - 成功处理: query_sparse_8_10.graph - 时间: 131.98ms 匹配数: 24333692
+2025-03-04 06:43:57,546 - INFO - 开始处理: query_sparse_8_11.graph
+2025-03-04 06:43:57,860 - DEBUG - query_sparse_8_11.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 43186232
+#Recursive calls: 86900
+Total time: 45.8772 ms
+Search time: 42.0531 ms
+
+2025-03-04 06:43:57,860 - INFO - 成功处理: query_sparse_8_11.graph - 时间: 45.88ms 匹配数: 43186232
+2025-03-04 06:43:57,861 - INFO - 开始处理: query_sparse_8_12.graph
+2025-03-04 06:43:58,200 - DEBUG - query_sparse_8_12.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9906367
+#Recursive calls: 131137
+Total time: 59.7144 ms
+Search time: 55.3794 ms
+
+2025-03-04 06:43:58,200 - INFO - 成功处理: query_sparse_8_12.graph - 时间: 59.71ms 匹配数: 9906367
+2025-03-04 06:43:58,200 - INFO - 开始处理: query_sparse_8_13.graph
+2025-03-04 06:43:59,036 - DEBUG - query_sparse_8_13.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 47674673
+#Recursive calls: 3957142
+Total time: 558.678 ms
+Search time: 554.179 ms
+
+2025-03-04 06:43:59,036 - INFO - 成功处理: query_sparse_8_13.graph - 时间: 558.68ms 匹配数: 47674673
+2025-03-04 06:43:59,036 - INFO - 开始处理: query_sparse_8_14.graph
+2025-03-04 06:43:59,337 - DEBUG - query_sparse_8_14.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 15790971
+#Recursive calls: 25231
+Total time: 18.1126 ms
+Search time: 14.2486 ms
+
+2025-03-04 06:43:59,337 - INFO - 成功处理: query_sparse_8_14.graph - 时间: 18.11ms 匹配数: 15790971
+2025-03-04 06:43:59,338 - INFO - 开始处理: query_sparse_8_15.graph
+2025-03-04 06:43:59,613 - DEBUG - query_sparse_8_15.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 45202042
+#Recursive calls: 48589
+Total time: 28.9767 ms
+Search time: 23.8897 ms
+
+2025-03-04 06:43:59,613 - INFO - 成功处理: query_sparse_8_15.graph - 时间: 28.98ms 匹配数: 45202042
+2025-03-04 06:43:59,615 - INFO - 开始处理: query_sparse_8_16.graph
+2025-03-04 06:43:59,885 - DEBUG - query_sparse_8_16.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 2775016
+#Recursive calls: 70522
+Total time: 29.0838 ms
+Search time: 20.7931 ms
+
+2025-03-04 06:43:59,885 - INFO - 成功处理: query_sparse_8_16.graph - 时间: 29.08ms 匹配数: 2775016
+2025-03-04 06:43:59,885 - INFO - 开始处理: query_sparse_8_17.graph
+2025-03-04 06:44:00,177 - DEBUG - query_sparse_8_17.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 1326775
+#Recursive calls: 15330
+Total time: 10.5209 ms
+Search time: 4.98448 ms
+
+2025-03-04 06:44:00,177 - INFO - 成功处理: query_sparse_8_17.graph - 时间: 10.52ms 匹配数: 1326775
+2025-03-04 06:44:00,177 - INFO - 开始处理: query_sparse_8_18.graph
+2025-03-04 06:44:00,636 - DEBUG - query_sparse_8_18.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 38845483
+#Recursive calls: 524431
+Total time: 179.189 ms
+Search time: 175.126 ms
+
+2025-03-04 06:44:00,636 - INFO - 成功处理: query_sparse_8_18.graph - 时间: 179.19ms 匹配数: 38845483
+2025-03-04 06:44:00,636 - INFO - 开始处理: query_sparse_8_19.graph
+2025-03-04 06:44:00,955 - DEBUG - query_sparse_8_19.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 38202283
+#Recursive calls: 64281
+Total time: 37.7254 ms
+Search time: 33.3082 ms
+
+2025-03-04 06:44:00,955 - INFO - 成功处理: query_sparse_8_19.graph - 时间: 37.73ms 匹配数: 38202283
+2025-03-04 06:44:00,955 - INFO - 开始处理: query_sparse_8_20.graph
+2025-03-04 06:44:01,304 - DEBUG - query_sparse_8_20.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 15900651
+#Recursive calls: 5349
+Total time: 75.2785 ms
+Search time: 70.7235 ms
+
+2025-03-04 06:44:01,305 - INFO - 成功处理: query_sparse_8_20.graph - 时间: 75.28ms 匹配数: 15900651
+2025-03-04 06:44:01,305 - INFO - 开始处理: query_sparse_8_21.graph
+2025-03-04 06:44:01,639 - DEBUG - query_sparse_8_21.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 13661776
+#Recursive calls: 229455
+Total time: 52.7768 ms
+Search time: 48.3741 ms
+
+2025-03-04 06:44:01,639 - INFO - 成功处理: query_sparse_8_21.graph - 时间: 52.78ms 匹配数: 13661776
+2025-03-04 06:44:01,640 - INFO - 开始处理: query_sparse_8_22.graph
+2025-03-04 06:44:01,897 - DEBUG - query_sparse_8_22.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 2284010
+#Recursive calls: 75199
+Total time: 17.5577 ms
+Search time: 12.7184 ms
+
+2025-03-04 06:44:01,898 - INFO - 成功处理: query_sparse_8_22.graph - 时间: 17.56ms 匹配数: 2284010
+2025-03-04 06:44:01,898 - INFO - 开始处理: query_sparse_8_23.graph
+2025-03-04 06:44:02,191 - DEBUG - query_sparse_8_23.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12466647
+#Recursive calls: 4925
+Total time: 6.28619 ms
+Search time: 2.29299 ms
+
+2025-03-04 06:44:02,192 - INFO - 成功处理: query_sparse_8_23.graph - 时间: 6.29ms 匹配数: 12466647
+2025-03-04 06:44:02,192 - INFO - 开始处理: query_sparse_8_24.graph
+2025-03-04 06:44:02,498 - DEBUG - query_sparse_8_24.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4667756
+#Recursive calls: 103665
+Total time: 26.424 ms
+Search time: 22.3958 ms
+
+2025-03-04 06:44:02,499 - INFO - 成功处理: query_sparse_8_24.graph - 时间: 26.42ms 匹配数: 4667756
+2025-03-04 06:44:02,499 - INFO - 开始处理: query_sparse_8_25.graph
+2025-03-04 06:44:02,813 - DEBUG - query_sparse_8_25.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 21372324
+#Recursive calls: 94485
+Total time: 39.8941 ms
+Search time: 35.0963 ms
+
+2025-03-04 06:44:02,814 - INFO - 成功处理: query_sparse_8_25.graph - 时间: 39.89ms 匹配数: 21372324
+2025-03-04 06:44:02,814 - INFO - 开始处理: query_sparse_8_26.graph
+2025-03-04 06:44:03,169 - DEBUG - query_sparse_8_26.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11391312
+#Recursive calls: 233696
+Total time: 63.9228 ms
+Search time: 60.271 ms
+
+2025-03-04 06:44:03,169 - INFO - 成功处理: query_sparse_8_26.graph - 时间: 63.92ms 匹配数: 11391312
+2025-03-04 06:44:03,169 - INFO - 开始处理: query_sparse_8_27.graph
+2025-03-04 06:44:03,458 - DEBUG - query_sparse_8_27.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 2458854
+#Recursive calls: 17133
+Total time: 9.73548 ms
+Search time: 4.85267 ms
+
+2025-03-04 06:44:03,458 - INFO - 成功处理: query_sparse_8_27.graph - 时间: 9.74ms 匹配数: 2458854
+2025-03-04 06:44:03,458 - INFO - 开始处理: query_sparse_8_28.graph
+2025-03-04 06:44:03,845 - DEBUG - query_sparse_8_28.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 39905098
+#Recursive calls: 388584
+Total time: 130.211 ms
+Search time: 125.287 ms
+
+2025-03-04 06:44:03,845 - INFO - 成功处理: query_sparse_8_28.graph - 时间: 130.21ms 匹配数: 39905098
+2025-03-04 06:44:03,845 - INFO - 开始处理: query_sparse_8_29.graph
+2025-03-04 06:44:04,165 - DEBUG - query_sparse_8_29.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4162924
+#Recursive calls: 104445
+Total time: 34.8849 ms
+Search time: 30.311 ms
+
+2025-03-04 06:44:04,165 - INFO - 成功处理: query_sparse_8_29.graph - 时间: 34.88ms 匹配数: 4162924
+2025-03-04 06:44:04,165 - INFO - 开始处理: query_sparse_8_30.graph
+2025-03-04 06:44:04,453 - DEBUG - query_sparse_8_30.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11166880
+#Recursive calls: 19365
+Total time: 14.0843 ms
+Search time: 9.13972 ms
+
+2025-03-04 06:44:04,453 - INFO - 成功处理: query_sparse_8_30.graph - 时间: 14.08ms 匹配数: 11166880
+2025-03-04 06:44:04,454 - INFO - 开始处理: query_sparse_8_31.graph
+2025-03-04 06:44:04,879 - DEBUG - query_sparse_8_31.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 18772517
+#Recursive calls: 482025
+Total time: 149.794 ms
+Search time: 146.08 ms
+
+2025-03-04 06:44:04,879 - INFO - 成功处理: query_sparse_8_31.graph - 时间: 149.79ms 匹配数: 18772517
+2025-03-04 06:44:04,880 - INFO - 开始处理: query_sparse_8_32.graph
+2025-03-04 06:44:05,171 - DEBUG - query_sparse_8_32.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 20124360
+#Recursive calls: 39926
+Total time: 17.549 ms
+Search time: 13.2909 ms
+
+2025-03-04 06:44:05,172 - INFO - 成功处理: query_sparse_8_32.graph - 时间: 17.55ms 匹配数: 20124360
+2025-03-04 06:44:05,172 - INFO - 开始处理: query_sparse_8_33.graph
+2025-03-04 06:44:05,523 - DEBUG - query_sparse_8_33.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12513624
+#Recursive calls: 4561
+Total time: 66.4595 ms
+Search time: 62.0914 ms
+
+2025-03-04 06:44:05,523 - INFO - 成功处理: query_sparse_8_33.graph - 时间: 66.46ms 匹配数: 12513624
+2025-03-04 06:44:05,523 - INFO - 开始处理: query_sparse_8_34.graph
+2025-03-04 06:44:05,870 - DEBUG - query_sparse_8_34.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 18469932
+#Recursive calls: 199139
+Total time: 61.1743 ms
+Search time: 57.3221 ms
+
+2025-03-04 06:44:05,870 - INFO - 成功处理: query_sparse_8_34.graph - 时间: 61.17ms 匹配数: 18469932
+2025-03-04 06:44:05,870 - INFO - 开始处理: query_sparse_8_35.graph
+2025-03-04 06:44:06,144 - DEBUG - query_sparse_8_35.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4495942
+#Recursive calls: 19217
+Total time: 10.7707 ms
+Search time: 5.41405 ms
+
+2025-03-04 06:44:06,144 - INFO - 成功处理: query_sparse_8_35.graph - 时间: 10.77ms 匹配数: 4495942
+2025-03-04 06:44:06,144 - INFO - 开始处理: query_sparse_8_36.graph
+2025-03-04 06:44:06,450 - DEBUG - query_sparse_8_36.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12002486
+#Recursive calls: 42648
+Total time: 18.0482 ms
+Search time: 13.8434 ms
+
+2025-03-04 06:44:06,450 - INFO - 成功处理: query_sparse_8_36.graph - 时间: 18.05ms 匹配数: 12002486
+2025-03-04 06:44:06,450 - INFO - 开始处理: query_sparse_8_37.graph
+2025-03-04 06:44:06,751 - DEBUG - query_sparse_8_37.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 14512822
+#Recursive calls: 30425
+Total time: 17.2888 ms
+Search time: 12.9211 ms
+
+2025-03-04 06:44:06,752 - INFO - 成功处理: query_sparse_8_37.graph - 时间: 17.29ms 匹配数: 14512822
+2025-03-04 06:44:06,752 - INFO - 开始处理: query_sparse_8_38.graph
+2025-03-04 06:44:07,083 - DEBUG - query_sparse_8_38.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7276076
+#Recursive calls: 125349
+Total time: 36.6546 ms
+Search time: 33.4962 ms
+
+2025-03-04 06:44:07,083 - INFO - 成功处理: query_sparse_8_38.graph - 时间: 36.65ms 匹配数: 7276076
+2025-03-04 06:44:07,084 - INFO - 开始处理: query_sparse_8_39.graph
+2025-03-04 06:44:07,377 - DEBUG - query_sparse_8_39.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 3185535
+#Recursive calls: 19524
+Total time: 11.9673 ms
+Search time: 6.82045 ms
+
+2025-03-04 06:44:07,377 - INFO - 成功处理: query_sparse_8_39.graph - 时间: 11.97ms 匹配数: 3185535
+2025-03-04 06:44:07,377 - INFO - 开始处理: query_sparse_8_40.graph
+2025-03-04 06:44:07,689 - DEBUG - query_sparse_8_40.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 30297817
+#Recursive calls: 40380
+Total time: 29.6371 ms
+Search time: 25.1681 ms
+
+2025-03-04 06:44:07,689 - INFO - 成功处理: query_sparse_8_40.graph - 时间: 29.64ms 匹配数: 30297817
+2025-03-04 06:44:07,690 - INFO - 开始处理: query_sparse_8_41.graph
+2025-03-04 06:44:08,037 - DEBUG - query_sparse_8_41.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 2951524
+#Recursive calls: 401318
+Total time: 41.4225 ms
+Search time: 36.3356 ms
+
+2025-03-04 06:44:08,038 - INFO - 成功处理: query_sparse_8_41.graph - 时间: 41.42ms 匹配数: 2951524
+2025-03-04 06:44:08,038 - INFO - 开始处理: query_sparse_8_42.graph
+2025-03-04 06:44:08,329 - DEBUG - query_sparse_8_42.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8011973
+#Recursive calls: 21479
+Total time: 13.7982 ms
+Search time: 9.73001 ms
+
+2025-03-04 06:44:08,329 - INFO - 成功处理: query_sparse_8_42.graph - 时间: 13.80ms 匹配数: 8011973
+2025-03-04 06:44:08,329 - INFO - 开始处理: query_sparse_8_43.graph
+2025-03-04 06:44:08,621 - DEBUG - query_sparse_8_43.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11764350
+#Recursive calls: 20650
+Total time: 13.7929 ms
+Search time: 10.231 ms
+
+2025-03-04 06:44:08,621 - INFO - 成功处理: query_sparse_8_43.graph - 时间: 13.79ms 匹配数: 11764350
+2025-03-04 06:44:08,622 - INFO - 开始处理: query_sparse_8_44.graph
+2025-03-04 06:44:08,943 - DEBUG - query_sparse_8_44.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 10683849
+#Recursive calls: 130938
+Total time: 37.8639 ms
+Search time: 33.3036 ms
+
+2025-03-04 06:44:08,943 - INFO - 成功处理: query_sparse_8_44.graph - 时间: 37.86ms 匹配数: 10683849
+2025-03-04 06:44:08,944 - INFO - 开始处理: query_sparse_8_45.graph
+2025-03-04 06:44:09,230 - DEBUG - query_sparse_8_45.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6780038
+#Recursive calls: 19980
+Total time: 12.6645 ms
+Search time: 8.7651 ms
+
+2025-03-04 06:44:09,230 - INFO - 成功处理: query_sparse_8_45.graph - 时间: 12.66ms 匹配数: 6780038
+2025-03-04 06:44:09,231 - INFO - 开始处理: query_sparse_8_46.graph
+2025-03-04 06:44:09,651 - DEBUG - query_sparse_8_46.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 50309024
+#Recursive calls: 6309
+Total time: 108.441 ms
+Search time: 103.743 ms
+
+2025-03-04 06:44:09,651 - INFO - 成功处理: query_sparse_8_46.graph - 时间: 108.44ms 匹配数: 50309024
+2025-03-04 06:44:09,652 - INFO - 开始处理: query_sparse_8_47.graph
+2025-03-04 06:44:09,991 - DEBUG - query_sparse_8_47.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8017754
+#Recursive calls: 178531
+Total time: 47.7891 ms
+Search time: 42.725 ms
+
+2025-03-04 06:44:09,991 - INFO - 成功处理: query_sparse_8_47.graph - 时间: 47.79ms 匹配数: 8017754
+2025-03-04 06:44:09,991 - INFO - 开始处理: query_sparse_8_48.graph
+2025-03-04 06:44:10,288 - DEBUG - query_sparse_8_48.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 63095813
+#Recursive calls: 8138
+Total time: 9.21581 ms
+Search time: 4.92289 ms
+
+2025-03-04 06:44:10,288 - INFO - 成功处理: query_sparse_8_48.graph - 时间: 9.22ms 匹配数: 63095813
+2025-03-04 06:44:10,289 - INFO - 开始处理: query_sparse_8_49.graph
+2025-03-04 06:44:10,587 - DEBUG - query_sparse_8_49.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5324826
+#Recursive calls: 146147
+Total time: 52.3062 ms
+Search time: 47.3808 ms
+
+2025-03-04 06:44:10,587 - INFO - 成功处理: query_sparse_8_49.graph - 时间: 52.31ms 匹配数: 5324826
+2025-03-04 06:44:10,588 - INFO - 开始处理: query_sparse_8_50.graph
+2025-03-04 06:44:10,849 - DEBUG - query_sparse_8_50.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4972557
+#Recursive calls: 22427
+Total time: 12.6618 ms
+Search time: 8.97938 ms
+
+2025-03-04 06:44:10,849 - INFO - 成功处理: query_sparse_8_50.graph - 时间: 12.66ms 匹配数: 4972557
+2025-03-04 06:44:10,849 - INFO - 开始处理: query_sparse_8_51.graph
+2025-03-04 06:44:11,138 - DEBUG - query_sparse_8_51.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6884582
+#Recursive calls: 25378
+Total time: 12.9862 ms
+Search time: 8.6159 ms
+
+2025-03-04 06:44:11,139 - INFO - 成功处理: query_sparse_8_51.graph - 时间: 12.99ms 匹配数: 6884582
+2025-03-04 06:44:11,139 - INFO - 开始处理: query_sparse_8_52.graph
+2025-03-04 06:44:11,811 - DEBUG - query_sparse_8_52.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 30457599
+#Recursive calls: 3023629
+Total time: 417.702 ms
+Search time: 412.919 ms
+
+2025-03-04 06:44:11,811 - INFO - 成功处理: query_sparse_8_52.graph - 时间: 417.70ms 匹配数: 30457599
+2025-03-04 06:44:11,811 - INFO - 开始处理: query_sparse_8_53.graph
+2025-03-04 06:44:12,099 - DEBUG - query_sparse_8_53.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 32107545
+#Recursive calls: 40041
+Total time: 29.816 ms
+Search time: 25.8078 ms
+
+2025-03-04 06:44:12,099 - INFO - 成功处理: query_sparse_8_53.graph - 时间: 29.82ms 匹配数: 32107545
+2025-03-04 06:44:12,099 - INFO - 开始处理: query_sparse_8_54.graph
+2025-03-04 06:44:12,454 - DEBUG - query_sparse_8_54.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 36110645
+#Recursive calls: 280954
+Total time: 109.097 ms
+Search time: 104.645 ms
+
+2025-03-04 06:44:12,455 - INFO - 成功处理: query_sparse_8_54.graph - 时间: 109.10ms 匹配数: 36110645
+2025-03-04 06:44:12,455 - INFO - 开始处理: query_sparse_8_55.graph
+2025-03-04 06:44:12,744 - DEBUG - query_sparse_8_55.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11283725
+#Recursive calls: 14315
+Total time: 12.1347 ms
+Search time: 8.16575 ms
+
+2025-03-04 06:44:12,744 - INFO - 成功处理: query_sparse_8_55.graph - 时间: 12.13ms 匹配数: 11283725
+2025-03-04 06:44:12,745 - INFO - 开始处理: query_sparse_8_56.graph
+2025-03-04 06:44:13,106 - DEBUG - query_sparse_8_56.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 22948691
+#Recursive calls: 221841
+Total time: 81.0652 ms
+Search time: 77.1415 ms
+
+2025-03-04 06:44:13,106 - INFO - 成功处理: query_sparse_8_56.graph - 时间: 81.07ms 匹配数: 22948691
+2025-03-04 06:44:13,106 - INFO - 开始处理: query_sparse_8_57.graph
+2025-03-04 06:44:13,423 - DEBUG - query_sparse_8_57.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5993632
+#Recursive calls: 24757
+Total time: 13.6956 ms
+Search time: 9.24102 ms
+
+2025-03-04 06:44:13,424 - INFO - 成功处理: query_sparse_8_57.graph - 时间: 13.70ms 匹配数: 5993632
+2025-03-04 06:44:13,424 - INFO - 开始处理: query_sparse_8_58.graph
+2025-03-04 06:44:13,711 - DEBUG - query_sparse_8_58.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11335102
+#Recursive calls: 27788
+Total time: 19.4196 ms
+Search time: 14.7823 ms
+
+2025-03-04 06:44:13,711 - INFO - 成功处理: query_sparse_8_58.graph - 时间: 19.42ms 匹配数: 11335102
+2025-03-04 06:44:13,712 - INFO - 开始处理: query_sparse_8_59.graph
+2025-03-04 06:44:14,011 - DEBUG - query_sparse_8_59.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 39841117
+#Recursive calls: 61217
+Total time: 44.5597 ms
+Search time: 40.0316 ms
+
+2025-03-04 06:44:14,011 - INFO - 成功处理: query_sparse_8_59.graph - 时间: 44.56ms 匹配数: 39841117
+2025-03-04 06:44:14,011 - INFO - 开始处理: query_sparse_8_60.graph
+2025-03-04 06:44:14,288 - DEBUG - query_sparse_8_60.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5357728
+#Recursive calls: 73502
+Total time: 24.0708 ms
+Search time: 19.402 ms
+
+2025-03-04 06:44:14,288 - INFO - 成功处理: query_sparse_8_60.graph - 时间: 24.07ms 匹配数: 5357728
+2025-03-04 06:44:14,289 - INFO - 开始处理: query_sparse_8_61.graph
+2025-03-04 06:44:14,607 - DEBUG - query_sparse_8_61.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 10462228
+#Recursive calls: 175951
+Total time: 50.2201 ms
+Search time: 42.8706 ms
+
+2025-03-04 06:44:14,607 - INFO - 成功处理: query_sparse_8_61.graph - 时间: 50.22ms 匹配数: 10462228
+2025-03-04 06:44:14,607 - INFO - 开始处理: query_sparse_8_62.graph
+2025-03-04 06:44:14,885 - DEBUG - query_sparse_8_62.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9264384
+#Recursive calls: 15904
+Total time: 10.1134 ms
+Search time: 5.44518 ms
+
+2025-03-04 06:44:14,885 - INFO - 成功处理: query_sparse_8_62.graph - 时间: 10.11ms 匹配数: 9264384
+2025-03-04 06:44:14,885 - INFO - 开始处理: query_sparse_8_63.graph
+2025-03-04 06:44:15,190 - DEBUG - query_sparse_8_63.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7133880
+#Recursive calls: 96046
+Total time: 38.0093 ms
+Search time: 33.4562 ms
+
+2025-03-04 06:44:15,190 - INFO - 成功处理: query_sparse_8_63.graph - 时间: 38.01ms 匹配数: 7133880
+2025-03-04 06:44:15,190 - INFO - 开始处理: query_sparse_8_64.graph
+2025-03-04 06:44:15,650 - DEBUG - query_sparse_8_64.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 70027345
+#Recursive calls: 544566
+Total time: 210.752 ms
+Search time: 206.027 ms
+
+2025-03-04 06:44:15,650 - INFO - 成功处理: query_sparse_8_64.graph - 时间: 210.75ms 匹配数: 70027345
+2025-03-04 06:44:15,652 - INFO - 开始处理: query_sparse_8_65.graph
+2025-03-04 06:44:16,123 - DEBUG - query_sparse_8_65.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 18289121
+#Recursive calls: 1946427
+Total time: 193.573 ms
+Search time: 189.835 ms
+
+2025-03-04 06:44:16,123 - INFO - 成功处理: query_sparse_8_65.graph - 时间: 193.57ms 匹配数: 18289121
+2025-03-04 06:44:16,123 - INFO - 开始处理: query_sparse_8_66.graph
+2025-03-04 06:44:16,425 - DEBUG - query_sparse_8_66.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 21170783
+#Recursive calls: 33273
+Total time: 22.6353 ms
+Search time: 18.6849 ms
+
+2025-03-04 06:44:16,425 - INFO - 成功处理: query_sparse_8_66.graph - 时间: 22.64ms 匹配数: 21170783
+2025-03-04 06:44:16,425 - INFO - 开始处理: query_sparse_8_67.graph
+2025-03-04 06:44:16,807 - DEBUG - query_sparse_8_67.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 15465001
+#Recursive calls: 137314
+Total time: 89.5563 ms
+Search time: 84.8961 ms
+
+2025-03-04 06:44:16,808 - INFO - 成功处理: query_sparse_8_67.graph - 时间: 89.56ms 匹配数: 15465001
+2025-03-04 06:44:16,808 - INFO - 开始处理: query_sparse_8_68.graph
+2025-03-04 06:44:17,207 - DEBUG - query_sparse_8_68.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9127866
+#Recursive calls: 1008572
+Total time: 113.649 ms
+Search time: 108.386 ms
+
+2025-03-04 06:44:17,207 - INFO - 成功处理: query_sparse_8_68.graph - 时间: 113.65ms 匹配数: 9127866
+2025-03-04 06:44:17,207 - INFO - 开始处理: query_sparse_8_69.graph
+2025-03-04 06:44:17,536 - DEBUG - query_sparse_8_69.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9138683
+#Recursive calls: 154644
+Total time: 56.076 ms
+Search time: 51.7139 ms
+
+2025-03-04 06:44:17,536 - INFO - 成功处理: query_sparse_8_69.graph - 时间: 56.08ms 匹配数: 9138683
+2025-03-04 06:44:17,536 - INFO - 开始处理: query_sparse_8_70.graph
+2025-03-04 06:44:17,901 - DEBUG - query_sparse_8_70.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 16593134
+#Recursive calls: 178515
+Total time: 81.2163 ms
+Search time: 76.7311 ms
+
+2025-03-04 06:44:17,901 - INFO - 成功处理: query_sparse_8_70.graph - 时间: 81.22ms 匹配数: 16593134
+2025-03-04 06:44:17,901 - INFO - 开始处理: query_sparse_8_71.graph
+2025-03-04 06:44:18,202 - DEBUG - query_sparse_8_71.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 17050044
+#Recursive calls: 21980
+Total time: 13.0033 ms
+Search time: 9.20648 ms
+
+2025-03-04 06:44:18,202 - INFO - 成功处理: query_sparse_8_71.graph - 时间: 13.00ms 匹配数: 17050044
+2025-03-04 06:44:18,202 - INFO - 开始处理: query_sparse_8_72.graph
+2025-03-04 06:44:18,519 - DEBUG - query_sparse_8_72.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4664639
+#Recursive calls: 82000
+Total time: 31.672 ms
+Search time: 27.1297 ms
+
+2025-03-04 06:44:18,519 - INFO - 成功处理: query_sparse_8_72.graph - 时间: 31.67ms 匹配数: 4664639
+2025-03-04 06:44:18,519 - INFO - 开始处理: query_sparse_8_73.graph
+2025-03-04 06:44:18,905 - DEBUG - query_sparse_8_73.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 19383042
+#Recursive calls: 170218
+Total time: 106.189 ms
+Search time: 101.644 ms
+
+2025-03-04 06:44:18,905 - INFO - 成功处理: query_sparse_8_73.graph - 时间: 106.19ms 匹配数: 19383042
+2025-03-04 06:44:18,906 - INFO - 开始处理: query_sparse_8_74.graph
+2025-03-04 06:44:19,199 - DEBUG - query_sparse_8_74.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11149202
+#Recursive calls: 20925
+Total time: 11.9017 ms
+Search time: 7.71414 ms
+
+2025-03-04 06:44:19,199 - INFO - 成功处理: query_sparse_8_74.graph - 时间: 11.90ms 匹配数: 11149202
+2025-03-04 06:44:19,199 - INFO - 开始处理: query_sparse_8_75.graph
+2025-03-04 06:44:19,548 - DEBUG - query_sparse_8_75.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5110082
+#Recursive calls: 702801
+Total time: 72.3008 ms
+Search time: 67.9984 ms
+
+2025-03-04 06:44:19,548 - INFO - 成功处理: query_sparse_8_75.graph - 时间: 72.30ms 匹配数: 5110082
+2025-03-04 06:44:19,549 - INFO - 开始处理: query_sparse_8_76.graph
+2025-03-04 06:44:19,895 - DEBUG - query_sparse_8_76.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11156555
+#Recursive calls: 224692
+Total time: 61.702 ms
+Search time: 56.9435 ms
+
+2025-03-04 06:44:19,895 - INFO - 成功处理: query_sparse_8_76.graph - 时间: 61.70ms 匹配数: 11156555
+2025-03-04 06:44:19,895 - INFO - 开始处理: query_sparse_8_77.graph
+2025-03-04 06:44:20,239 - DEBUG - query_sparse_8_77.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 13627264
+#Recursive calls: 178239
+Total time: 56.4757 ms
+Search time: 52.5355 ms
+
+2025-03-04 06:44:20,239 - INFO - 成功处理: query_sparse_8_77.graph - 时间: 56.48ms 匹配数: 13627264
+2025-03-04 06:44:20,239 - INFO - 开始处理: query_sparse_8_78.graph
+2025-03-04 06:44:20,548 - DEBUG - query_sparse_8_78.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8313558
+#Recursive calls: 103014
+Total time: 31.3975 ms
+Search time: 26.7828 ms
+
+2025-03-04 06:44:20,548 - INFO - 成功处理: query_sparse_8_78.graph - 时间: 31.40ms 匹配数: 8313558
+2025-03-04 06:44:20,548 - INFO - 开始处理: query_sparse_8_79.graph
+2025-03-04 06:44:20,981 - DEBUG - query_sparse_8_79.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 25893038
+#Recursive calls: 397897
+Total time: 156.105 ms
+Search time: 150.771 ms
+
+2025-03-04 06:44:20,981 - INFO - 成功处理: query_sparse_8_79.graph - 时间: 156.10ms 匹配数: 25893038
+2025-03-04 06:44:20,981 - INFO - 开始处理: query_sparse_8_80.graph
+2025-03-04 06:44:21,332 - DEBUG - query_sparse_8_80.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 20643431
+#Recursive calls: 186932
+Total time: 72.9763 ms
+Search time: 68.8071 ms
+
+2025-03-04 06:44:21,332 - INFO - 成功处理: query_sparse_8_80.graph - 时间: 72.98ms 匹配数: 20643431
+2025-03-04 06:44:21,332 - INFO - 开始处理: query_sparse_8_81.graph
+2025-03-04 06:44:21,616 - DEBUG - query_sparse_8_81.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4568934
+#Recursive calls: 10502
+Total time: 7.91489 ms
+Search time: 3.74663 ms
+
+2025-03-04 06:44:21,616 - INFO - 成功处理: query_sparse_8_81.graph - 时间: 7.91ms 匹配数: 4568934
+2025-03-04 06:44:21,617 - INFO - 开始处理: query_sparse_8_82.graph
+2025-03-04 06:44:21,915 - DEBUG - query_sparse_8_82.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5742652
+#Recursive calls: 136191
+Total time: 29.8233 ms
+Search time: 26.0733 ms
+
+2025-03-04 06:44:21,915 - INFO - 成功处理: query_sparse_8_82.graph - 时间: 29.82ms 匹配数: 5742652
+2025-03-04 06:44:21,915 - INFO - 开始处理: query_sparse_8_83.graph
+2025-03-04 06:44:22,318 - DEBUG - query_sparse_8_83.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 33878870
+#Recursive calls: 385437
+Total time: 117.752 ms
+Search time: 113.301 ms
+
+2025-03-04 06:44:22,319 - INFO - 成功处理: query_sparse_8_83.graph - 时间: 117.75ms 匹配数: 33878870
+2025-03-04 06:44:22,319 - INFO - 开始处理: query_sparse_8_84.graph
+2025-03-04 06:44:22,617 - DEBUG - query_sparse_8_84.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 10870915
+#Recursive calls: 22907
+Total time: 17.4743 ms
+Search time: 13.0819 ms
+
+2025-03-04 06:44:22,617 - INFO - 成功处理: query_sparse_8_84.graph - 时间: 17.47ms 匹配数: 10870915
+2025-03-04 06:44:22,617 - INFO - 开始处理: query_sparse_8_85.graph
+2025-03-04 06:44:22,939 - DEBUG - query_sparse_8_85.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5934853
+#Recursive calls: 104916
+Total time: 39.437 ms
+Search time: 35.0555 ms
+
+2025-03-04 06:44:22,939 - INFO - 成功处理: query_sparse_8_85.graph - 时间: 39.44ms 匹配数: 5934853
+2025-03-04 06:44:22,939 - INFO - 开始处理: query_sparse_8_86.graph
+2025-03-04 06:44:23,219 - DEBUG - query_sparse_8_86.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9073522
+#Recursive calls: 3923
+Total time: 5.86239 ms
+Search time: 1.17242 ms
+
+2025-03-04 06:44:23,219 - INFO - 成功处理: query_sparse_8_86.graph - 时间: 5.86ms 匹配数: 9073522
+2025-03-04 06:44:23,219 - INFO - 开始处理: query_sparse_8_87.graph
+2025-03-04 06:44:23,618 - DEBUG - query_sparse_8_87.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8635631
+#Recursive calls: 1021962
+Total time: 121.982 ms
+Search time: 118.441 ms
+
+2025-03-04 06:44:23,618 - INFO - 成功处理: query_sparse_8_87.graph - 时间: 121.98ms 匹配数: 8635631
+2025-03-04 06:44:23,618 - INFO - 开始处理: query_sparse_8_88.graph
+2025-03-04 06:44:23,931 - DEBUG - query_sparse_8_88.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 2604240
+#Recursive calls: 73957
+Total time: 31.1816 ms
+Search time: 26.7786 ms
+
+2025-03-04 06:44:23,931 - INFO - 成功处理: query_sparse_8_88.graph - 时间: 31.18ms 匹配数: 2604240
+2025-03-04 06:44:23,932 - INFO - 开始处理: query_sparse_8_89.graph
+2025-03-04 06:44:24,326 - DEBUG - query_sparse_8_89.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 28819296
+#Recursive calls: 397066
+Total time: 115.229 ms
+Search time: 111.259 ms
+
+2025-03-04 06:44:24,326 - INFO - 成功处理: query_sparse_8_89.graph - 时间: 115.23ms 匹配数: 28819296
+2025-03-04 06:44:24,327 - INFO - 开始处理: query_sparse_8_90.graph
+2025-03-04 06:44:24,654 - DEBUG - query_sparse_8_90.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6610622
+#Recursive calls: 164570
+Total time: 45.7324 ms
+Search time: 41.7329 ms
+
+2025-03-04 06:44:24,654 - INFO - 成功处理: query_sparse_8_90.graph - 时间: 45.73ms 匹配数: 6610622
+2025-03-04 06:44:24,654 - INFO - 开始处理: query_sparse_8_91.graph
+2025-03-04 06:44:25,066 - DEBUG - query_sparse_8_91.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9847572
+#Recursive calls: 1267141
+Total time: 140.201 ms
+Search time: 135.555 ms
+
+2025-03-04 06:44:25,066 - INFO - 成功处理: query_sparse_8_91.graph - 时间: 140.20ms 匹配数: 9847572
+2025-03-04 06:44:25,066 - INFO - 开始处理: query_sparse_8_92.graph
+2025-03-04 06:44:25,375 - DEBUG - query_sparse_8_92.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 52593979
+#Recursive calls: 49716
+Total time: 35.4062 ms
+Search time: 31.4185 ms
+
+2025-03-04 06:44:25,375 - INFO - 成功处理: query_sparse_8_92.graph - 时间: 35.41ms 匹配数: 52593979
+2025-03-04 06:44:25,376 - INFO - 开始处理: query_sparse_8_93.graph
+2025-03-04 06:44:25,769 - DEBUG - query_sparse_8_93.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 16041136
+#Recursive calls: 193298
+Total time: 113.788 ms
+Search time: 109.208 ms
+
+2025-03-04 06:44:25,769 - INFO - 成功处理: query_sparse_8_93.graph - 时间: 113.79ms 匹配数: 16041136
+2025-03-04 06:44:25,770 - INFO - 开始处理: query_sparse_8_94.graph
+2025-03-04 06:44:26,328 - DEBUG - query_sparse_8_94.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 77776225
+#Recursive calls: 700013
+Total time: 277.861 ms
+Search time: 273.568 ms
+
+2025-03-04 06:44:26,328 - INFO - 成功处理: query_sparse_8_94.graph - 时间: 277.86ms 匹配数: 77776225
+2025-03-04 06:44:26,329 - INFO - 开始处理: query_sparse_8_95.graph
+2025-03-04 06:44:26,613 - DEBUG - query_sparse_8_95.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6108673
+#Recursive calls: 4570
+Total time: 5.9003 ms
+Search time: 1.98121 ms
+
+2025-03-04 06:44:26,613 - INFO - 成功处理: query_sparse_8_95.graph - 时间: 5.90ms 匹配数: 6108673
+2025-03-04 06:44:26,613 - INFO - 开始处理: query_sparse_8_96.graph
+2025-03-04 06:44:26,919 - DEBUG - query_sparse_8_96.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 3470010
+#Recursive calls: 14915
+Total time: 12.5392 ms
+Search time: 8.02844 ms
+
+2025-03-04 06:44:26,919 - INFO - 成功处理: query_sparse_8_96.graph - 时间: 12.54ms 匹配数: 3470010
+2025-03-04 06:44:26,919 - INFO - 开始处理: query_sparse_8_97.graph
+2025-03-04 06:44:27,378 - DEBUG - query_sparse_8_97.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11456608
+#Recursive calls: 1573454
+Total time: 174.09 ms
+Search time: 169.467 ms
+
+2025-03-04 06:44:27,379 - INFO - 成功处理: query_sparse_8_97.graph - 时间: 174.09ms 匹配数: 11456608
+2025-03-04 06:44:27,379 - INFO - 开始处理: query_sparse_8_98.graph
+2025-03-04 06:44:27,672 - DEBUG - query_sparse_8_98.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11033561
+#Recursive calls: 9202
+Total time: 7.57448 ms
+Search time: 3.24302 ms
+
+2025-03-04 06:44:27,672 - INFO - 成功处理: query_sparse_8_98.graph - 时间: 7.57ms 匹配数: 11033561
+2025-03-04 06:44:27,673 - INFO - 开始处理: query_sparse_8_99.graph
+2025-03-04 06:44:27,974 - DEBUG - query_sparse_8_99.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6199133
+#Recursive calls: 17365
+Total time: 15.5789 ms
+Search time: 10.8717 ms
+
+2025-03-04 06:44:27,974 - INFO - 成功处理: query_sparse_8_99.graph - 时间: 15.58ms 匹配数: 6199133
+2025-03-04 06:44:27,974 - INFO - 开始处理: query_sparse_8_100.graph
+2025-03-04 06:44:28,285 - DEBUG - query_sparse_8_100.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 13108953
+#Recursive calls: 24005
+Total time: 14.5316 ms
+Search time: 10.4524 ms
+
+2025-03-04 06:44:28,286 - INFO - 成功处理: query_sparse_8_100.graph - 时间: 14.53ms 匹配数: 13108953
+2025-03-04 06:44:28,286 - INFO - 开始处理: query_sparse_8_101.graph
+2025-03-04 06:44:28,623 - DEBUG - query_sparse_8_101.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 14567690
+#Recursive calls: 173471
+Total time: 59.6488 ms
+Search time: 55.9182 ms
+
+2025-03-04 06:44:28,623 - INFO - 成功处理: query_sparse_8_101.graph - 时间: 59.65ms 匹配数: 14567690
+2025-03-04 06:44:28,623 - INFO - 开始处理: query_sparse_8_102.graph
+2025-03-04 06:44:28,911 - DEBUG - query_sparse_8_102.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7969130
+#Recursive calls: 29745
+Total time: 14.7993 ms
+Search time: 10.8547 ms
+
+2025-03-04 06:44:28,912 - INFO - 成功处理: query_sparse_8_102.graph - 时间: 14.80ms 匹配数: 7969130
+2025-03-04 06:44:28,912 - INFO - 开始处理: query_sparse_8_103.graph
+2025-03-04 06:44:29,284 - DEBUG - query_sparse_8_103.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 16321182
+#Recursive calls: 302944
+Total time: 101.426 ms
+Search time: 96.8881 ms
+
+2025-03-04 06:44:29,284 - INFO - 成功处理: query_sparse_8_103.graph - 时间: 101.43ms 匹配数: 16321182
+2025-03-04 06:44:29,284 - INFO - 开始处理: query_sparse_8_104.graph
+2025-03-04 06:44:29,596 - DEBUG - query_sparse_8_104.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6883929
+#Recursive calls: 92362
+Total time: 24.7932 ms
+Search time: 20.7354 ms
+
+2025-03-04 06:44:29,596 - INFO - 成功处理: query_sparse_8_104.graph - 时间: 24.79ms 匹配数: 6883929
+2025-03-04 06:44:29,596 - INFO - 开始处理: query_sparse_8_105.graph
+2025-03-04 06:44:29,912 - DEBUG - query_sparse_8_105.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8706506
+#Recursive calls: 170989
+Total time: 41.5286 ms
+Search time: 36.7685 ms
+
+2025-03-04 06:44:29,912 - INFO - 成功处理: query_sparse_8_105.graph - 时间: 41.53ms 匹配数: 8706506
+2025-03-04 06:44:29,912 - INFO - 开始处理: query_sparse_8_106.graph
+2025-03-04 06:44:30,233 - DEBUG - query_sparse_8_106.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8930597
+#Recursive calls: 95889
+Total time: 37.9113 ms
+Search time: 33.4789 ms
+
+2025-03-04 06:44:30,234 - INFO - 成功处理: query_sparse_8_106.graph - 时间: 37.91ms 匹配数: 8930597
+2025-03-04 06:44:30,234 - INFO - 开始处理: query_sparse_8_107.graph
+2025-03-04 06:44:30,519 - DEBUG - query_sparse_8_107.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11007252
+#Recursive calls: 15313
+Total time: 8.93873 ms
+Search time: 5.2673 ms
+
+2025-03-04 06:44:30,519 - INFO - 成功处理: query_sparse_8_107.graph - 时间: 8.94ms 匹配数: 11007252
+2025-03-04 06:44:30,519 - INFO - 开始处理: query_sparse_8_108.graph
+2025-03-04 06:44:30,888 - DEBUG - query_sparse_8_108.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 13099844
+#Recursive calls: 237327
+Total time: 99.8522 ms
+Search time: 95.7816 ms
+
+2025-03-04 06:44:30,888 - INFO - 成功处理: query_sparse_8_108.graph - 时间: 99.85ms 匹配数: 13099844
+2025-03-04 06:44:30,888 - INFO - 开始处理: query_sparse_8_109.graph
+2025-03-04 06:44:31,189 - DEBUG - query_sparse_8_109.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 34673192
+#Recursive calls: 25495
+Total time: 19.3592 ms
+Search time: 15.4342 ms
+
+2025-03-04 06:44:31,189 - INFO - 成功处理: query_sparse_8_109.graph - 时间: 19.36ms 匹配数: 34673192
+2025-03-04 06:44:31,189 - INFO - 开始处理: query_sparse_8_110.graph
+2025-03-04 06:44:31,580 - DEBUG - query_sparse_8_110.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 22600292
+#Recursive calls: 332961
+Total time: 90.099 ms
+Search time: 85.7699 ms
+
+2025-03-04 06:44:31,580 - INFO - 成功处理: query_sparse_8_110.graph - 时间: 90.10ms 匹配数: 22600292
+2025-03-04 06:44:31,580 - INFO - 开始处理: query_sparse_8_111.graph
+2025-03-04 06:44:31,924 - DEBUG - query_sparse_8_111.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 10084305
+#Recursive calls: 158102
+Total time: 47.329 ms
+Search time: 43.8982 ms
+
+2025-03-04 06:44:31,924 - INFO - 成功处理: query_sparse_8_111.graph - 时间: 47.33ms 匹配数: 10084305
+2025-03-04 06:44:31,924 - INFO - 开始处理: query_sparse_8_112.graph
+2025-03-04 06:44:32,231 - DEBUG - query_sparse_8_112.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 26774526
+#Recursive calls: 55660
+Total time: 28.3532 ms
+Search time: 24.3234 ms
+
+2025-03-04 06:44:32,231 - INFO - 成功处理: query_sparse_8_112.graph - 时间: 28.35ms 匹配数: 26774526
+2025-03-04 06:44:32,231 - INFO - 开始处理: query_sparse_8_113.graph
+2025-03-04 06:44:32,535 - DEBUG - query_sparse_8_113.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5468489
+#Recursive calls: 31043
+Total time: 15.2986 ms
+Search time: 11.167 ms
+
+2025-03-04 06:44:32,536 - INFO - 成功处理: query_sparse_8_113.graph - 时间: 15.30ms 匹配数: 5468489
+2025-03-04 06:44:32,536 - INFO - 开始处理: query_sparse_8_114.graph
+2025-03-04 06:44:32,865 - DEBUG - query_sparse_8_114.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 54606367
+#Recursive calls: 51350
+Total time: 40.2448 ms
+Search time: 36.2995 ms
+
+2025-03-04 06:44:32,866 - INFO - 成功处理: query_sparse_8_114.graph - 时间: 40.24ms 匹配数: 54606367
+2025-03-04 06:44:32,866 - INFO - 开始处理: query_sparse_8_115.graph
+2025-03-04 06:44:33,226 - DEBUG - query_sparse_8_115.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 21969311
+#Recursive calls: 212169
+Total time: 70.4337 ms
+Search time: 67.5041 ms
+
+2025-03-04 06:44:33,226 - INFO - 成功处理: query_sparse_8_115.graph - 时间: 70.43ms 匹配数: 21969311
+2025-03-04 06:44:33,226 - INFO - 开始处理: query_sparse_8_116.graph
+2025-03-04 06:44:33,536 - DEBUG - query_sparse_8_116.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 48345304
+#Recursive calls: 69527
+Total time: 31.8806 ms
+Search time: 28.4417 ms
+
+2025-03-04 06:44:33,536 - INFO - 成功处理: query_sparse_8_116.graph - 时间: 31.88ms 匹配数: 48345304
+2025-03-04 06:44:33,536 - INFO - 开始处理: query_sparse_8_117.graph
+2025-03-04 06:44:33,835 - DEBUG - query_sparse_8_117.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 1506759
+#Recursive calls: 27373
+Total time: 12.3434 ms
+Search time: 7.92463 ms
+
+2025-03-04 06:44:33,836 - INFO - 成功处理: query_sparse_8_117.graph - 时间: 12.34ms 匹配数: 1506759
+2025-03-04 06:44:33,836 - INFO - 开始处理: query_sparse_8_118.graph
+2025-03-04 06:44:34,208 - DEBUG - query_sparse_8_118.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 19710774
+#Recursive calls: 170978
+Total time: 66.2167 ms
+Search time: 61.9562 ms
+
+2025-03-04 06:44:34,209 - INFO - 成功处理: query_sparse_8_118.graph - 时间: 66.22ms 匹配数: 19710774
+2025-03-04 06:44:34,209 - INFO - 开始处理: query_sparse_8_119.graph
+2025-03-04 06:44:34,548 - DEBUG - query_sparse_8_119.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4733226
+#Recursive calls: 81586
+Total time: 31.8915 ms
+Search time: 27.2613 ms
+
+2025-03-04 06:44:34,549 - INFO - 成功处理: query_sparse_8_119.graph - 时间: 31.89ms 匹配数: 4733226
+2025-03-04 06:44:34,549 - INFO - 开始处理: query_sparse_8_120.graph
+2025-03-04 06:44:34,909 - DEBUG - query_sparse_8_120.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 30707929
+#Recursive calls: 75570
+Total time: 43.5085 ms
+Search time: 39.6686 ms
+
+2025-03-04 06:44:34,910 - INFO - 成功处理: query_sparse_8_120.graph - 时间: 43.51ms 匹配数: 30707929
+2025-03-04 06:44:34,910 - INFO - 开始处理: query_sparse_8_121.graph
+2025-03-04 06:44:35,205 - DEBUG - query_sparse_8_121.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12009352
+#Recursive calls: 13765
+Total time: 7.47884 ms
+Search time: 4.81017 ms
+
+2025-03-04 06:44:35,206 - INFO - 成功处理: query_sparse_8_121.graph - 时间: 7.48ms 匹配数: 12009352
+2025-03-04 06:44:35,206 - INFO - 开始处理: query_sparse_8_122.graph
+2025-03-04 06:44:36,313 - DEBUG - query_sparse_8_122.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 16042955
+#Recursive calls: 42117
+Total time: 814.809 ms
+Search time: 810.411 ms
+
+2025-03-04 06:44:36,313 - INFO - 成功处理: query_sparse_8_122.graph - 时间: 814.81ms 匹配数: 16042955
+2025-03-04 06:44:36,314 - INFO - 开始处理: query_sparse_8_123.graph
+2025-03-04 06:44:36,643 - DEBUG - query_sparse_8_123.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 17132243
+#Recursive calls: 24151
+Total time: 13.9485 ms
+Search time: 9.39301 ms
+
+2025-03-04 06:44:36,643 - INFO - 成功处理: query_sparse_8_123.graph - 时间: 13.95ms 匹配数: 17132243
+2025-03-04 06:44:36,643 - INFO - 开始处理: query_sparse_8_124.graph
+2025-03-04 06:44:36,969 - DEBUG - query_sparse_8_124.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7152001
+#Recursive calls: 148976
+Total time: 37.9441 ms
+Search time: 33.6181 ms
+
+2025-03-04 06:44:36,969 - INFO - 成功处理: query_sparse_8_124.graph - 时间: 37.94ms 匹配数: 7152001
+2025-03-04 06:44:36,969 - INFO - 开始处理: query_sparse_8_125.graph
+2025-03-04 06:44:37,276 - DEBUG - query_sparse_8_125.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 19095612
+#Recursive calls: 23037
+Total time: 15.4166 ms
+Search time: 11.2073 ms
+
+2025-03-04 06:44:37,276 - INFO - 成功处理: query_sparse_8_125.graph - 时间: 15.42ms 匹配数: 19095612
+2025-03-04 06:44:37,277 - INFO - 开始处理: query_sparse_8_126.graph
+2025-03-04 06:44:37,712 - DEBUG - query_sparse_8_126.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 23875441
+#Recursive calls: 363801
+Total time: 150.029 ms
+Search time: 145.448 ms
+
+2025-03-04 06:44:37,712 - INFO - 成功处理: query_sparse_8_126.graph - 时间: 150.03ms 匹配数: 23875441
+2025-03-04 06:44:37,712 - INFO - 开始处理: query_sparse_8_127.graph
+2025-03-04 06:44:38,023 - DEBUG - query_sparse_8_127.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5209598
+#Recursive calls: 64373
+Total time: 24.4121 ms
+Search time: 20.3047 ms
+
+2025-03-04 06:44:38,023 - INFO - 成功处理: query_sparse_8_127.graph - 时间: 24.41ms 匹配数: 5209598
+2025-03-04 06:44:38,024 - INFO - 开始处理: query_sparse_8_128.graph
+2025-03-04 06:44:38,318 - DEBUG - query_sparse_8_128.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 10806350
+#Recursive calls: 23043
+Total time: 14.6786 ms
+Search time: 11.1046 ms
+
+2025-03-04 06:44:38,318 - INFO - 成功处理: query_sparse_8_128.graph - 时间: 14.68ms 匹配数: 10806350
+2025-03-04 06:44:38,318 - INFO - 开始处理: query_sparse_8_129.graph
+2025-03-04 06:44:38,624 - DEBUG - query_sparse_8_129.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4592107
+#Recursive calls: 31598
+Total time: 16.768 ms
+Search time: 12.1306 ms
+
+2025-03-04 06:44:38,624 - INFO - 成功处理: query_sparse_8_129.graph - 时间: 16.77ms 匹配数: 4592107
+2025-03-04 06:44:38,624 - INFO - 开始处理: query_sparse_8_130.graph
+2025-03-04 06:44:38,994 - DEBUG - query_sparse_8_130.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 21554171
+#Recursive calls: 344687
+Total time: 87.6888 ms
+Search time: 83.6685 ms
+
+2025-03-04 06:44:38,994 - INFO - 成功处理: query_sparse_8_130.graph - 时间: 87.69ms 匹配数: 21554171
+2025-03-04 06:44:38,994 - INFO - 开始处理: query_sparse_8_131.graph
+2025-03-04 06:44:39,362 - DEBUG - query_sparse_8_131.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 28455215
+#Recursive calls: 253043
+Total time: 93.0023 ms
+Search time: 89.082 ms
+
+2025-03-04 06:44:39,362 - INFO - 成功处理: query_sparse_8_131.graph - 时间: 93.00ms 匹配数: 28455215
+2025-03-04 06:44:39,363 - INFO - 开始处理: query_sparse_8_132.graph
+2025-03-04 06:44:39,687 - DEBUG - query_sparse_8_132.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7052906
+#Recursive calls: 94415
+Total time: 36.3726 ms
+Search time: 32.3615 ms
+
+2025-03-04 06:44:39,687 - INFO - 成功处理: query_sparse_8_132.graph - 时间: 36.37ms 匹配数: 7052906
+2025-03-04 06:44:39,687 - INFO - 开始处理: query_sparse_8_133.graph
+2025-03-04 06:44:40,084 - DEBUG - query_sparse_8_133.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 20198526
+#Recursive calls: 260593
+Total time: 121.62 ms
+Search time: 117.045 ms
+
+2025-03-04 06:44:40,084 - INFO - 成功处理: query_sparse_8_133.graph - 时间: 121.62ms 匹配数: 20198526
+2025-03-04 06:44:40,084 - INFO - 开始处理: query_sparse_8_134.graph
+2025-03-04 06:44:40,372 - DEBUG - query_sparse_8_134.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7050552
+#Recursive calls: 15873
+Total time: 9.45047 ms
+Search time: 4.92333 ms
+
+2025-03-04 06:44:40,372 - INFO - 成功处理: query_sparse_8_134.graph - 时间: 9.45ms 匹配数: 7050552
+2025-03-04 06:44:40,372 - INFO - 开始处理: query_sparse_8_135.graph
+2025-03-04 06:44:40,778 - DEBUG - query_sparse_8_135.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 20131474
+#Recursive calls: 231437
+Total time: 126.714 ms
+Search time: 122.756 ms
+
+2025-03-04 06:44:40,779 - INFO - 成功处理: query_sparse_8_135.graph - 时间: 126.71ms 匹配数: 20131474
+2025-03-04 06:44:40,779 - INFO - 开始处理: query_sparse_8_136.graph
+2025-03-04 06:44:41,096 - DEBUG - query_sparse_8_136.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9075018
+#Recursive calls: 150454
+Total time: 35.3635 ms
+Search time: 31.3121 ms
+
+2025-03-04 06:44:41,096 - INFO - 成功处理: query_sparse_8_136.graph - 时间: 35.36ms 匹配数: 9075018
+2025-03-04 06:44:41,096 - INFO - 开始处理: query_sparse_8_137.graph
+2025-03-04 06:44:41,518 - DEBUG - query_sparse_8_137.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 3632833
+#Recursive calls: 10442
+Total time: 131.256 ms
+Search time: 127.188 ms
+
+2025-03-04 06:44:41,518 - INFO - 成功处理: query_sparse_8_137.graph - 时间: 131.26ms 匹配数: 3632833
+2025-03-04 06:44:41,518 - INFO - 开始处理: query_sparse_8_138.graph
+2025-03-04 06:44:41,899 - DEBUG - query_sparse_8_138.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 14303300
+#Recursive calls: 219880
+Total time: 98.2238 ms
+Search time: 93.98 ms
+
+2025-03-04 06:44:41,899 - INFO - 成功处理: query_sparse_8_138.graph - 时间: 98.22ms 匹配数: 14303300
+2025-03-04 06:44:41,899 - INFO - 开始处理: query_sparse_8_139.graph
+2025-03-04 06:44:42,191 - DEBUG - query_sparse_8_139.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11697850
+#Recursive calls: 28416
+Total time: 20.1793 ms
+Search time: 15.3178 ms
+
+2025-03-04 06:44:42,192 - INFO - 成功处理: query_sparse_8_139.graph - 时间: 20.18ms 匹配数: 11697850
+2025-03-04 06:44:42,192 - INFO - 开始处理: query_sparse_8_140.graph
+2025-03-04 06:44:42,502 - DEBUG - query_sparse_8_140.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6981330
+#Recursive calls: 132444
+Total time: 37.0658 ms
+Search time: 32.4608 ms
+
+2025-03-04 06:44:42,502 - INFO - 成功处理: query_sparse_8_140.graph - 时间: 37.07ms 匹配数: 6981330
+2025-03-04 06:44:42,502 - INFO - 开始处理: query_sparse_8_141.graph
+2025-03-04 06:44:42,781 - DEBUG - query_sparse_8_141.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 3043628
+#Recursive calls: 16696
+Total time: 9.89143 ms
+Search time: 4.30295 ms
+
+2025-03-04 06:44:42,781 - INFO - 成功处理: query_sparse_8_141.graph - 时间: 9.89ms 匹配数: 3043628
+2025-03-04 06:44:42,781 - INFO - 开始处理: query_sparse_8_142.graph
+2025-03-04 06:44:43,510 - DEBUG - query_sparse_8_142.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 33174883
+#Recursive calls: 4649017
+Total time: 456.887 ms
+Search time: 453.849 ms
+
+2025-03-04 06:44:43,510 - INFO - 成功处理: query_sparse_8_142.graph - 时间: 456.89ms 匹配数: 33174883
+2025-03-04 06:44:43,511 - INFO - 开始处理: query_sparse_8_143.graph
+2025-03-04 06:44:43,793 - DEBUG - query_sparse_8_143.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8016717
+#Recursive calls: 19774
+Total time: 13.4311 ms
+Search time: 9.81483 ms
+
+2025-03-04 06:44:43,794 - INFO - 成功处理: query_sparse_8_143.graph - 时间: 13.43ms 匹配数: 8016717
+2025-03-04 06:44:43,794 - INFO - 开始处理: query_sparse_8_144.graph
+2025-03-04 06:44:44,222 - DEBUG - query_sparse_8_144.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 29593041
+#Recursive calls: 382596
+Total time: 160.763 ms
+Search time: 156.231 ms
+
+2025-03-04 06:44:44,222 - INFO - 成功处理: query_sparse_8_144.graph - 时间: 160.76ms 匹配数: 29593041
+2025-03-04 06:44:44,223 - INFO - 开始处理: query_sparse_8_145.graph
+2025-03-04 06:44:44,508 - DEBUG - query_sparse_8_145.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7867330
+#Recursive calls: 33573
+Total time: 14.2577 ms
+Search time: 10.1124 ms
+
+2025-03-04 06:44:44,508 - INFO - 成功处理: query_sparse_8_145.graph - 时间: 14.26ms 匹配数: 7867330
+2025-03-04 06:44:44,508 - INFO - 开始处理: query_sparse_8_146.graph
+2025-03-04 06:44:44,798 - DEBUG - query_sparse_8_146.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 20309240
+#Recursive calls: 31964
+Total time: 18.1595 ms
+Search time: 13.2811 ms
+
+2025-03-04 06:44:44,798 - INFO - 成功处理: query_sparse_8_146.graph - 时间: 18.16ms 匹配数: 20309240
+2025-03-04 06:44:44,798 - INFO - 开始处理: query_sparse_8_147.graph
+2025-03-04 06:44:45,345 - DEBUG - query_sparse_8_147.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9033671
+#Recursive calls: 15789
+Total time: 266.003 ms
+Search time: 261.686 ms
+
+2025-03-04 06:44:45,345 - INFO - 成功处理: query_sparse_8_147.graph - 时间: 266.00ms 匹配数: 9033671
+2025-03-04 06:44:45,345 - INFO - 开始处理: query_sparse_8_148.graph
+2025-03-04 06:44:45,669 - DEBUG - query_sparse_8_148.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 14614797
+#Recursive calls: 113593
+Total time: 47.7341 ms
+Search time: 43.3562 ms
+
+2025-03-04 06:44:45,669 - INFO - 成功处理: query_sparse_8_148.graph - 时间: 47.73ms 匹配数: 14614797
+2025-03-04 06:44:45,669 - INFO - 开始处理: query_sparse_8_149.graph
+2025-03-04 06:44:45,949 - DEBUG - query_sparse_8_149.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 3239878
+#Recursive calls: 49424
+Total time: 13.7387 ms
+Search time: 9.39098 ms
+
+2025-03-04 06:44:45,949 - INFO - 成功处理: query_sparse_8_149.graph - 时间: 13.74ms 匹配数: 3239878
+2025-03-04 06:44:45,949 - INFO - 开始处理: query_sparse_8_150.graph
+2025-03-04 06:44:46,237 - DEBUG - query_sparse_8_150.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4500802
+#Recursive calls: 3516
+Total time: 5.81564 ms
+Search time: 1.55992 ms
+
+2025-03-04 06:44:46,238 - INFO - 成功处理: query_sparse_8_150.graph - 时间: 5.82ms 匹配数: 4500802
+2025-03-04 06:44:46,238 - INFO - 开始处理: query_sparse_8_151.graph
+2025-03-04 06:44:46,533 - DEBUG - query_sparse_8_151.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12771605
+#Recursive calls: 23510
+Total time: 12.733 ms
+Search time: 8.55149 ms
+
+2025-03-04 06:44:46,533 - INFO - 成功处理: query_sparse_8_151.graph - 时间: 12.73ms 匹配数: 12771605
+2025-03-04 06:44:46,533 - INFO - 开始处理: query_sparse_8_152.graph
+2025-03-04 06:44:46,938 - DEBUG - query_sparse_8_152.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 16462380
+#Recursive calls: 491237
+Total time: 128.389 ms
+Search time: 124.44 ms
+
+2025-03-04 06:44:46,938 - INFO - 成功处理: query_sparse_8_152.graph - 时间: 128.39ms 匹配数: 16462380
+2025-03-04 06:44:46,939 - INFO - 开始处理: query_sparse_8_153.graph
+2025-03-04 06:44:47,320 - DEBUG - query_sparse_8_153.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 21494160
+#Recursive calls: 308373
+Total time: 100.873 ms
+Search time: 96.5064 ms
+
+2025-03-04 06:44:47,321 - INFO - 成功处理: query_sparse_8_153.graph - 时间: 100.87ms 匹配数: 21494160
+2025-03-04 06:44:47,321 - INFO - 开始处理: query_sparse_8_154.graph
+2025-03-04 06:44:47,943 - DEBUG - query_sparse_8_154.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 56738628
+#Recursive calls: 1650053
+Total time: 352.54 ms
+Search time: 347.545 ms
+
+2025-03-04 06:44:47,943 - INFO - 成功处理: query_sparse_8_154.graph - 时间: 352.54ms 匹配数: 56738628
+2025-03-04 06:44:47,943 - INFO - 开始处理: query_sparse_8_155.graph
+2025-03-04 06:44:48,289 - DEBUG - query_sparse_8_155.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5107611
+#Recursive calls: 685394
+Total time: 76.0198 ms
+Search time: 71.3569 ms
+
+2025-03-04 06:44:48,289 - INFO - 成功处理: query_sparse_8_155.graph - 时间: 76.02ms 匹配数: 5107611
+2025-03-04 06:44:48,289 - INFO - 开始处理: query_sparse_8_156.graph
+2025-03-04 06:44:48,598 - DEBUG - query_sparse_8_156.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 33405325
+#Recursive calls: 42052
+Total time: 25.6407 ms
+Search time: 21.6406 ms
+
+2025-03-04 06:44:48,598 - INFO - 成功处理: query_sparse_8_156.graph - 时间: 25.64ms 匹配数: 33405325
+2025-03-04 06:44:48,598 - INFO - 开始处理: query_sparse_8_157.graph
+2025-03-04 06:44:48,980 - DEBUG - query_sparse_8_157.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 26579544
+#Recursive calls: 334305
+Total time: 99.946 ms
+Search time: 94.9862 ms
+
+2025-03-04 06:44:48,980 - INFO - 成功处理: query_sparse_8_157.graph - 时间: 99.95ms 匹配数: 26579544
+2025-03-04 06:44:48,980 - INFO - 开始处理: query_sparse_8_158.graph
+2025-03-04 06:44:49,260 - DEBUG - query_sparse_8_158.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 3428859
+#Recursive calls: 13236
+Total time: 9.90896 ms
+Search time: 4.48131 ms
+
+2025-03-04 06:44:49,260 - INFO - 成功处理: query_sparse_8_158.graph - 时间: 9.91ms 匹配数: 3428859
+2025-03-04 06:44:49,260 - INFO - 开始处理: query_sparse_8_159.graph
+2025-03-04 06:44:49,683 - DEBUG - query_sparse_8_159.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 31016471
+#Recursive calls: 313858
+Total time: 136.464 ms
+Search time: 131.667 ms
+
+2025-03-04 06:44:49,683 - INFO - 成功处理: query_sparse_8_159.graph - 时间: 136.46ms 匹配数: 31016471
+2025-03-04 06:44:49,683 - INFO - 开始处理: query_sparse_8_160.graph
+2025-03-04 06:44:49,966 - DEBUG - query_sparse_8_160.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4653514
+#Recursive calls: 21324
+Total time: 11.9792 ms
+Search time: 7.93548 ms
+
+2025-03-04 06:44:49,966 - INFO - 成功处理: query_sparse_8_160.graph - 时间: 11.98ms 匹配数: 4653514
+2025-03-04 06:44:49,966 - INFO - 开始处理: query_sparse_8_161.graph
+2025-03-04 06:44:50,317 - DEBUG - query_sparse_8_161.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 22980041
+#Recursive calls: 207886
+Total time: 78.5057 ms
+Search time: 74.3232 ms
+
+2025-03-04 06:44:50,317 - INFO - 成功处理: query_sparse_8_161.graph - 时间: 78.51ms 匹配数: 22980041
+2025-03-04 06:44:50,317 - INFO - 开始处理: query_sparse_8_162.graph
+2025-03-04 06:44:50,649 - DEBUG - query_sparse_8_162.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6573177
+#Recursive calls: 211289
+Total time: 48.2765 ms
+Search time: 43.5033 ms
+
+2025-03-04 06:44:50,649 - INFO - 成功处理: query_sparse_8_162.graph - 时间: 48.28ms 匹配数: 6573177
+2025-03-04 06:44:50,650 - INFO - 开始处理: query_sparse_8_163.graph
+2025-03-04 06:44:50,950 - DEBUG - query_sparse_8_163.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 3583372
+#Recursive calls: 96319
+Total time: 25.042 ms
+Search time: 21.0547 ms
+
+2025-03-04 06:44:50,950 - INFO - 成功处理: query_sparse_8_163.graph - 时间: 25.04ms 匹配数: 3583372
+2025-03-04 06:44:50,950 - INFO - 开始处理: query_sparse_8_164.graph
+2025-03-04 06:44:51,254 - DEBUG - query_sparse_8_164.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 52120868
+#Recursive calls: 37978
+Total time: 27.3703 ms
+Search time: 23.3856 ms
+
+2025-03-04 06:44:51,254 - INFO - 成功处理: query_sparse_8_164.graph - 时间: 27.37ms 匹配数: 52120868
+2025-03-04 06:44:51,255 - INFO - 开始处理: query_sparse_8_165.graph
+2025-03-04 06:44:51,746 - DEBUG - query_sparse_8_165.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 28629569
+#Recursive calls: 828296
+Total time: 219.406 ms
+Search time: 214.97 ms
+
+2025-03-04 06:44:51,746 - INFO - 成功处理: query_sparse_8_165.graph - 时间: 219.41ms 匹配数: 28629569
+2025-03-04 06:44:51,747 - INFO - 开始处理: query_sparse_8_166.graph
+2025-03-04 06:44:52,041 - DEBUG - query_sparse_8_166.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7931221
+#Recursive calls: 37733
+Total time: 17.5263 ms
+Search time: 13.3834 ms
+
+2025-03-04 06:44:52,041 - INFO - 成功处理: query_sparse_8_166.graph - 时间: 17.53ms 匹配数: 7931221
+2025-03-04 06:44:52,041 - INFO - 开始处理: query_sparse_8_167.graph
+2025-03-04 06:44:52,347 - DEBUG - query_sparse_8_167.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 20411100
+#Recursive calls: 44985
+Total time: 30.5045 ms
+Search time: 26.3958 ms
+
+2025-03-04 06:44:52,347 - INFO - 成功处理: query_sparse_8_167.graph - 时间: 30.50ms 匹配数: 20411100
+2025-03-04 06:44:52,348 - INFO - 开始处理: query_sparse_8_168.graph
+2025-03-04 06:44:52,644 - DEBUG - query_sparse_8_168.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11102708
+#Recursive calls: 29218
+Total time: 20.287 ms
+Search time: 16.2895 ms
+
+2025-03-04 06:44:52,644 - INFO - 成功处理: query_sparse_8_168.graph - 时间: 20.29ms 匹配数: 11102708
+2025-03-04 06:44:52,644 - INFO - 开始处理: query_sparse_8_169.graph
+2025-03-04 06:44:52,976 - DEBUG - query_sparse_8_169.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 8090496
+#Recursive calls: 119488
+Total time: 40.2385 ms
+Search time: 35.4853 ms
+
+2025-03-04 06:44:52,976 - INFO - 成功处理: query_sparse_8_169.graph - 时间: 40.24ms 匹配数: 8090496
+2025-03-04 06:44:52,976 - INFO - 开始处理: query_sparse_8_170.graph
+2025-03-04 06:44:53,312 - DEBUG - query_sparse_8_170.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 4633198
+#Recursive calls: 642286
+Total time: 65.4265 ms
+Search time: 61.7416 ms
+
+2025-03-04 06:44:53,312 - INFO - 成功处理: query_sparse_8_170.graph - 时间: 65.43ms 匹配数: 4633198
+2025-03-04 06:44:53,313 - INFO - 开始处理: query_sparse_8_171.graph
+2025-03-04 06:44:53,676 - DEBUG - query_sparse_8_171.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 7291184
+#Recursive calls: 781899
+Total time: 82.1957 ms
+Search time: 77.7335 ms
+
+2025-03-04 06:44:53,677 - INFO - 成功处理: query_sparse_8_171.graph - 时间: 82.20ms 匹配数: 7291184
+2025-03-04 06:44:53,677 - INFO - 开始处理: query_sparse_8_172.graph
+2025-03-04 06:44:53,961 - DEBUG - query_sparse_8_172.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12114780
+#Recursive calls: 20376
+Total time: 11.0432 ms
+Search time: 7.31565 ms
+
+2025-03-04 06:44:53,962 - INFO - 成功处理: query_sparse_8_172.graph - 时间: 11.04ms 匹配数: 12114780
+2025-03-04 06:44:53,962 - INFO - 开始处理: query_sparse_8_173.graph
+2025-03-04 06:44:54,270 - DEBUG - query_sparse_8_173.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 9026028
+#Recursive calls: 93776
+Total time: 33.9129 ms
+Search time: 28.9159 ms
+
+2025-03-04 06:44:54,270 - INFO - 成功处理: query_sparse_8_173.graph - 时间: 33.91ms 匹配数: 9026028
+2025-03-04 06:44:54,270 - INFO - 开始处理: query_sparse_8_174.graph
+2025-03-04 06:44:54,648 - DEBUG - query_sparse_8_174.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 16340332
+#Recursive calls: 342654
+Total time: 97.99 ms
+Search time: 93.7774 ms
+
+2025-03-04 06:44:54,648 - INFO - 成功处理: query_sparse_8_174.graph - 时间: 97.99ms 匹配数: 16340332
+2025-03-04 06:44:54,648 - INFO - 开始处理: query_sparse_8_175.graph
+2025-03-04 06:44:54,967 - DEBUG - query_sparse_8_175.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 95430212
+#Recursive calls: 77345
+Total time: 48.4301 ms
+Search time: 43.1719 ms
+
+2025-03-04 06:44:54,967 - INFO - 成功处理: query_sparse_8_175.graph - 时间: 48.43ms 匹配数: 95430212
+2025-03-04 06:44:54,967 - INFO - 开始处理: query_sparse_8_176.graph
+2025-03-04 06:44:55,270 - DEBUG - query_sparse_8_176.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 54821034
+#Recursive calls: 65331
+Total time: 32.1619 ms
+Search time: 28.2166 ms
+
+2025-03-04 06:44:55,270 - INFO - 成功处理: query_sparse_8_176.graph - 时间: 32.16ms 匹配数: 54821034
+2025-03-04 06:44:55,270 - INFO - 开始处理: query_sparse_8_177.graph
+2025-03-04 06:44:55,567 - DEBUG - query_sparse_8_177.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 18657376
+#Recursive calls: 18259
+Total time: 11.9838 ms
+Search time: 8.14646 ms
+
+2025-03-04 06:44:55,567 - INFO - 成功处理: query_sparse_8_177.graph - 时间: 11.98ms 匹配数: 18657376
+2025-03-04 06:44:55,567 - INFO - 开始处理: query_sparse_8_178.graph
+2025-03-04 06:44:55,976 - DEBUG - query_sparse_8_178.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 31429734
+#Recursive calls: 327913
+Total time: 127.76 ms
+Search time: 123.719 ms
+
+2025-03-04 06:44:55,976 - INFO - 成功处理: query_sparse_8_178.graph - 时间: 127.76ms 匹配数: 31429734
+2025-03-04 06:44:55,977 - INFO - 开始处理: query_sparse_8_179.graph
+2025-03-04 06:44:56,496 - DEBUG - query_sparse_8_179.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 51794214
+#Recursive calls: 461000
+Total time: 256.081 ms
+Search time: 251.241 ms
+
+2025-03-04 06:44:56,496 - INFO - 成功处理: query_sparse_8_179.graph - 时间: 256.08ms 匹配数: 51794214
+2025-03-04 06:44:56,496 - INFO - 开始处理: query_sparse_8_180.graph
+2025-03-04 06:44:56,852 - DEBUG - query_sparse_8_180.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 18187181
+#Recursive calls: 246554
+Total time: 78.6906 ms
+Search time: 74.4681 ms
+
+2025-03-04 06:44:56,852 - INFO - 成功处理: query_sparse_8_180.graph - 时间: 78.69ms 匹配数: 18187181
+2025-03-04 06:44:56,852 - INFO - 开始处理: query_sparse_8_181.graph
+2025-03-04 06:44:57,214 - DEBUG - query_sparse_8_181.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6997265
+#Recursive calls: 723126
+Total time: 82.7911 ms
+Search time: 78.8906 ms
+
+2025-03-04 06:44:57,214 - INFO - 成功处理: query_sparse_8_181.graph - 时间: 82.79ms 匹配数: 6997265
+2025-03-04 06:44:57,215 - INFO - 开始处理: query_sparse_8_182.graph
+2025-03-04 06:44:57,504 - DEBUG - query_sparse_8_182.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 13783035
+#Recursive calls: 32661
+Total time: 19.3323 ms
+Search time: 15.2232 ms
+
+2025-03-04 06:44:57,504 - INFO - 成功处理: query_sparse_8_182.graph - 时间: 19.33ms 匹配数: 13783035
+2025-03-04 06:44:57,504 - INFO - 开始处理: query_sparse_8_183.graph
+2025-03-04 06:44:57,882 - DEBUG - query_sparse_8_183.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6951130
+#Recursive calls: 983330
+Total time: 97.1941 ms
+Search time: 92.9106 ms
+
+2025-03-04 06:44:57,882 - INFO - 成功处理: query_sparse_8_183.graph - 时间: 97.19ms 匹配数: 6951130
+2025-03-04 06:44:57,882 - INFO - 开始处理: query_sparse_8_184.graph
+2025-03-04 06:44:58,188 - DEBUG - query_sparse_8_184.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 12106079
+#Recursive calls: 33667
+Total time: 22.1785 ms
+Search time: 17.6153 ms
+
+2025-03-04 06:44:58,188 - INFO - 成功处理: query_sparse_8_184.graph - 时间: 22.18ms 匹配数: 12106079
+2025-03-04 06:44:58,188 - INFO - 开始处理: query_sparse_8_185.graph
+2025-03-04 06:44:58,483 - DEBUG - query_sparse_8_185.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 16088140
+#Recursive calls: 30516
+Total time: 22.5843 ms
+Search time: 18.4991 ms
+
+2025-03-04 06:44:58,483 - INFO - 成功处理: query_sparse_8_185.graph - 时间: 22.58ms 匹配数: 16088140
+2025-03-04 06:44:58,483 - INFO - 开始处理: query_sparse_8_186.graph
+2025-03-04 06:44:58,777 - DEBUG - query_sparse_8_186.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 5013729
+#Recursive calls: 16435
+Total time: 11.0744 ms
+Search time: 6.03402 ms
+
+2025-03-04 06:44:58,777 - INFO - 成功处理: query_sparse_8_186.graph - 时间: 11.07ms 匹配数: 5013729
+2025-03-04 06:44:58,777 - INFO - 开始处理: query_sparse_8_187.graph
+2025-03-04 06:44:59,148 - DEBUG - query_sparse_8_187.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11238280
+#Recursive calls: 495947
+Total time: 96.5648 ms
+Search time: 92.3314 ms
+
+2025-03-04 06:44:59,148 - INFO - 成功处理: query_sparse_8_187.graph - 时间: 96.56ms 匹配数: 11238280
+2025-03-04 06:44:59,148 - INFO - 开始处理: query_sparse_8_188.graph
+2025-03-04 06:44:59,447 - DEBUG - query_sparse_8_188.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 14810739
+#Recursive calls: 32261
+Total time: 17.3825 ms
+Search time: 12.686 ms
+
+2025-03-04 06:44:59,447 - INFO - 成功处理: query_sparse_8_188.graph - 时间: 17.38ms 匹配数: 14810739
+2025-03-04 06:44:59,447 - INFO - 开始处理: query_sparse_8_189.graph
+2025-03-04 06:44:59,775 - DEBUG - query_sparse_8_189.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 20714822
+#Recursive calls: 52429
+Total time: 32.9399 ms
+Search time: 27.9518 ms
+
+2025-03-04 06:44:59,775 - INFO - 成功处理: query_sparse_8_189.graph - 时间: 32.94ms 匹配数: 20714822
+2025-03-04 06:44:59,775 - INFO - 开始处理: query_sparse_8_190.graph
+2025-03-04 06:45:00,280 - DEBUG - query_sparse_8_190.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 41309504
+#Recursive calls: 537856
+Total time: 217.129 ms
+Search time: 212.341 ms
+
+2025-03-04 06:45:00,280 - INFO - 成功处理: query_sparse_8_190.graph - 时间: 217.13ms 匹配数: 41309504
+2025-03-04 06:45:00,280 - INFO - 开始处理: query_sparse_8_191.graph
+2025-03-04 06:45:00,593 - DEBUG - query_sparse_8_191.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 54894771
+#Recursive calls: 77707
+Total time: 38.2798 ms
+Search time: 33.9259 ms
+
+2025-03-04 06:45:00,593 - INFO - 成功处理: query_sparse_8_191.graph - 时间: 38.28ms 匹配数: 54894771
+2025-03-04 06:45:00,594 - INFO - 开始处理: query_sparse_8_192.graph
+2025-03-04 06:45:00,882 - DEBUG - query_sparse_8_192.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 3220913
+#Recursive calls: 44587
+Total time: 16.3428 ms
+Search time: 12.0617 ms
+
+2025-03-04 06:45:00,883 - INFO - 成功处理: query_sparse_8_192.graph - 时间: 16.34ms 匹配数: 3220913
+2025-03-04 06:45:00,883 - INFO - 开始处理: query_sparse_8_193.graph
+2025-03-04 06:45:01,187 - DEBUG - query_sparse_8_193.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 27858863
+#Recursive calls: 53227
+Total time: 28.5245 ms
+Search time: 24.7144 ms
+
+2025-03-04 06:45:01,187 - INFO - 成功处理: query_sparse_8_193.graph - 时间: 28.52ms 匹配数: 27858863
+2025-03-04 06:45:01,188 - INFO - 开始处理: query_sparse_8_194.graph
+2025-03-04 06:45:01,509 - DEBUG - query_sparse_8_194.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 13101765
+#Recursive calls: 157706
+Total time: 51.515 ms
+Search time: 47.7585 ms
+
+2025-03-04 06:45:01,509 - INFO - 成功处理: query_sparse_8_194.graph - 时间: 51.52ms 匹配数: 13101765
+2025-03-04 06:45:01,509 - INFO - 开始处理: query_sparse_8_195.graph
+2025-03-04 06:45:01,817 - DEBUG - query_sparse_8_195.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 2549004
+#Recursive calls: 107321
+Total time: 30.5447 ms
+Search time: 26.8931 ms
+
+2025-03-04 06:45:01,818 - INFO - 成功处理: query_sparse_8_195.graph - 时间: 30.54ms 匹配数: 2549004
+2025-03-04 06:45:01,818 - INFO - 开始处理: query_sparse_8_196.graph
+2025-03-04 06:45:02,162 - DEBUG - query_sparse_8_196.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 13126120
+#Recursive calls: 149966
+Total time: 60.6302 ms
+Search time: 55.6612 ms
+
+2025-03-04 06:45:02,162 - INFO - 成功处理: query_sparse_8_196.graph - 时间: 60.63ms 匹配数: 13126120
+2025-03-04 06:45:02,162 - INFO - 开始处理: query_sparse_8_197.graph
+2025-03-04 06:45:02,504 - DEBUG - query_sparse_8_197.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 20180469
+#Recursive calls: 226549
+Total time: 74.6916 ms
+Search time: 69.914 ms
+
+2025-03-04 06:45:02,504 - INFO - 成功处理: query_sparse_8_197.graph - 时间: 74.69ms 匹配数: 20180469
+2025-03-04 06:45:02,504 - INFO - 开始处理: query_sparse_8_198.graph
+2025-03-04 06:45:02,917 - DEBUG - query_sparse_8_198.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 11692745
+#Recursive calls: 1039683
+Total time: 138.128 ms
+Search time: 134.088 ms
+
+2025-03-04 06:45:02,917 - INFO - 成功处理: query_sparse_8_198.graph - 时间: 138.13ms 匹配数: 11692745
+2025-03-04 06:45:02,917 - INFO - 开始处理: query_sparse_8_199.graph
+2025-03-04 06:45:03,198 - DEBUG - query_sparse_8_199.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 6824509
+#Recursive calls: 3221
+Total time: 6.11442 ms
+Search time: 1.72642 ms
+
+2025-03-04 06:45:03,198 - INFO - 成功处理: query_sparse_8_199.graph - 时间: 6.11ms 匹配数: 6824509
+2025-03-04 06:45:03,198 - INFO - 开始处理: query_sparse_8_200.graph
+2025-03-04 06:45:03,502 - DEBUG - query_sparse_8_200.graph 标准输出:
+Loading data graph...
+Loading query graph...
+Enumerating...
+#Matches: 2700710
+#Recursive calls: 41922
+Total time: 23.5509 ms
+Search time: 19.1661 ms
+
+2025-03-04 06:45:03,502 - INFO - 成功处理: query_sparse_8_200.graph - 时间: 23.55ms 匹配数: 2700710
+2025-03-04 06:45:03,502 - INFO - 处理任务全部完成

@@ -17,8 +17,8 @@ def setup_logger():
 logger = setup_logger()
 
 # 文件路径配置
-query_graph_folder = '/home/myran/FaSTest_backup/FaSTest/dataset/human/query_graph/'
-output_file = '/home/myran/FaSTest_backup/FaSTest/dataset/human/human_ans.txt'
+query_graph_folder = '/home/myran/FaSTest_backup/FaSTest/dataset/dblp/query_graph/'
+output_file = '/home/myran/FaSTest_backup/FaSTest/dataset/dblp/dblp_ans.txt'
 
 
 def sorting_key(filename):

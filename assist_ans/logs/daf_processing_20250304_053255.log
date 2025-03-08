@@ -1,0 +1,17 @@
+2025-03-04 05:32:55,620 - INFO - 处理条件：类型=dense, 组号=[16], 文件范围=2-10, 输出文件=/home/myran/FaSTest_backup/FaSTest/dataset/dblp/dblp_ans.txt, 写入模式=追加
+2025-03-04 05:32:55,624 - INFO - 找到符合条件文件数量：9
+2025-03-04 05:32:55,624 - INFO - 开始处理: query_dense_16_2.graph
+2025-03-04 05:42:55,961 - ERROR - 处理超时: query_dense_16_2.graph (超过 600 秒)
+2025-03-04 05:42:55,962 - INFO - 开始处理: query_dense_16_3.graph
+2025-03-04 05:52:56,068 - ERROR - 处理超时: query_dense_16_3.graph (超过 600 秒)
+2025-03-04 05:52:56,068 - INFO - 开始处理: query_dense_16_4.graph
+2025-03-04 06:02:56,146 - ERROR - 处理超时: query_dense_16_4.graph (超过 600 秒)
+2025-03-04 06:02:56,147 - INFO - 开始处理: query_dense_16_5.graph
+2025-03-04 06:12:56,170 - ERROR - 处理超时: query_dense_16_5.graph (超过 600 秒)
+2025-03-04 06:12:56,170 - INFO - 开始处理: query_dense_16_6.graph
+2025-03-04 06:22:56,254 - ERROR - 处理超时: query_dense_16_6.graph (超过 600 秒)
+2025-03-04 06:22:56,255 - INFO - 开始处理: query_dense_16_7.graph
+2025-03-04 06:32:56,366 - ERROR - 处理超时: query_dense_16_7.graph (超过 600 秒)
+2025-03-04 06:32:56,366 - INFO - 开始处理: query_dense_16_8.graph
+2025-03-04 06:42:56,472 - ERROR - 处理超时: query_dense_16_8.graph (超过 600 秒)
+2025-03-04 06:42:56,473 - INFO - 开始处理: query_dense_16_9.graph
