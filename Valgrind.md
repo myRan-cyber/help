@@ -9,6 +9,7 @@
    
 ### 1. 确保编译时包含调试符号
 在构建项目时，需确保 -g 标志被启用（生成调试符号）。修改你的 CMake 构建命令：
+
     ```
     cd build
     cmake -DCMAKE_BUILD_TYPE=Debug ..  # 强制开启调试模式
