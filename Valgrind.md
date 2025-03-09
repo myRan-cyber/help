@@ -17,7 +17,8 @@
     ```
 
 ### 2. 运行 Valgrind 检测内存泄漏
-    执行以下命令：
+执行以下命令：
+
     ```
     valgrind --leak-check=full \
          --show-leak-kinds=all \
@@ -27,6 +28,7 @@
          ./Fastest -d yeast
     ```
 
+
     参数解释：
     |         Argument          |                          Description                          |
     |:-------------------------:|:-------------------------------------------------------------:|
@@ -35,8 +37,11 @@
     |--log-file=valgrind_log.txt|                将结果保存到日志文件                              |
     |   --track-origins=yes     |                追踪未初始化值的来源（有助于发现野指针问题）          |
 
+    
+
 ### 3. 分析结果
-    检查生成的日志文件 valgrind_log.txt，重点关注以下部分：
+检查生成的日志文件 valgrind_log.txt，重点关注以下部分：
+
     ```
     ==12345== LEAK SUMMARY:
     ==12345==    definitely lost: X bytes in Y blocks    # 必须修复的内存泄漏
@@ -46,12 +51,14 @@
     ```
 
 ### 4. 修复泄漏
-    根据 Valgrind 输出的代码行号定位问题，常见原因包括：
-    1.new/delete 不匹配
-    2.动态数组未释放（忘记 delete[]）
-    3.异常分支未释放内存
+
+根据 Valgrind 输出的代码行号定位问题，常见原因包括：
+1.new/delete 不匹配
+2.动态数组未释放（忘记 delete[]）
+3.异常分支未释放内存
 
 ### 5. 其他
-    1.优化调试体验：如果输出过于冗长，可以暂时关闭编译器优化（在 CMake 中设置 -O0）
-    2.条件启动：对于大型程序，可通过 --vgdb=yes 启动 Valgrind 的 GDB 调试集成
-    3.排除第三方库干扰：使用 --suppressions=suppression_file.txt 忽略已知的第三方库误报
+
+1.优化调试体验：如果输出过于冗长，可以暂时关闭编译器优化（在 CMake 中设置 -O0）
+2.条件启动：对于大型程序，可通过 --vgdb=yes 启动 Valgrind 的 GDB 调试集成
+3.排除第三方库干扰：使用 --suppressions=suppression_file.txt 忽略已知的第三方库误报
